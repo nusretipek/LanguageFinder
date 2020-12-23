@@ -1,0 +1,1668 @@
+er ,12083
+en ,10075
+et ,6914
+ de,6910
+de ,5195
+ i ,4911
+og ,4749
+ og,4661
+den,3717
+der,3689
+for,3462
+nde,3456
+ fo,3310
+ me,3149
+ af,3070
+ter,2976
+ere,2974
+ ha,2763
+af ,2747
+ en,2742
+ing,2685
+ ti,2632
+til,2606
+and,2561
+ed ,2549
+re ,2501
+ede,2468
+te ,2451
+ne ,2356
+ste,2334
+e s,2290
+ er,2279
+det,2274
+or ,2165
+lle,2155
+om ,2145
+il ,2106
+an ,2090
+ke ,2063
+es ,2036
+ st,2034
+ar ,2026
+at ,2015
+lig,1960
+ bl,1927
+ so,1890
+ at,1884
+ge ,1866
+end,1844
+nge,1814
+r d,1733
+gen,1727
+r e,1724
+ fr,1716
+som,1704
+ske,1694
+med,1686
+ver,1628
+ng ,1611
+ be,1607
+r s,1599
+ger,1583
+han,1578
+ind,1574
+ på,1550
+e f,1534
+ va,1518
+e o,1513
+lev,1507
+ler,1502
+på ,1488
+ern,1456
+n s,1437
+e a,1429
+ige,1417
+ble,1410
+var,1391
+tte,1391
+le ,1388
+t s,1384
+ens,1383
+ si,1378
+e d,1374
+ret,1369
+ion,1361
+ ko,1348
+ner,1341
+ in,1331
+lan,1326
+r i,1318
+e i,1313
+r a,1309
+e m,1305
+e e,1296
+r o,1294
+men,1290
+ev ,1284
+ ma,1268
+ ud,1264
+eri,1262
+und,1253
+els,1246
+rne,1220
+n f,1210
+del,1205
+ an,1202
+t a,1197
+r f,1195
+est,1194
+nin,1183
+ da,1172
+n a,1166
+ns ,1164
+isk,1158
+sen,1151
+fra,1149
+ ve,1147
+ans,1147
+ sa,1143
+kke,1141
+e b,1140
+ra ,1137
+e t,1137
+t i,1120
+n d,1117
+mme,1112
+e h,1108
+ sk,1107
+r h,1106
+nne,1104
+nd ,1098
+red,1097
+ ka,1087
+ig ,1079
+t f,1074
+ser,1030
+se ,1027
+on ,1022
+ re,1017
+ang,1015
+ell,1012
+ he,996
+t o,988
+lse,986
+ren,983
+e k,976
+ove,975
+nsk,973
+n o,962
+ill,960
+r m,955
+tio,930
+ent,929
+fte,920
+ vi,917
+rin,917
+n e,915
+n b,911
+ et,901
+ved,896
+ive,890
+ist,888
+ la,887
+sta,887
+r b,882
+sto,873
+ se,869
+n m,866
+man,864
+sk ,853
+ om,852
+ gr,851
+e p,851
+age,847
+t e,844
+t m,843
+n i,839
+ pr,836
+dan,834
+ hv,832
+t d,832
+ op,831
+mer,830
+ers,828
+dt ,825
+ndt,822
+ten,807
+st ,805
+n h,803
+ord,793
+ene,791
+har,781
+ mo,778
+i d,769
+em ,766
+sti,764
+el ,760
+des,757
+ati,752
+e v,750
+ li,749
+n v,748
+nte,748
+gt ,745
+ al,744
+g s,744
+ide,735
+one,733
+tet,732
+str,732
+sam,731
+ber,730
+res,728
+t b,722
+ker,719
+tor,708
+lin,705
+ br,705
+før,698
+t h,698
+ fi,698
+old,696
+t t,692
+g d,679
+n t,676
+ale,664
+nds,664
+ska,663
+ un,659
+kom,658
+hav,658
+i s,652
+ no,651
+r k,647
+ di,647
+l a,644
+dre,640
+ikk,635
+lde,634
+r t,631
+vis,619
+n k,619
+t p,617
+ fø,616
+kon,614
+ tr,610
+rst,607
+eli,605
+r v,604
+s s,601
+g a,601
+t v,601
+eft,599
+ven,599
+hol,597
+all,597
+e l,596
+rer,595
+dst,595
+rke,593
+kri,592
+ore,588
+ hu,587
+in ,585
+tal,585
+r p,582
+ekt,581
+kan,579
+al ,577
+get,575
+ ge,575
+g i,574
+ el,572
+e g,569
+g f,566
+d s,564
+gru,562
+pro,562
+ran,561
+vær,561
+per,559
+år ,555
+ ba,554
+f d,552
+sin,552
+mar,552
+ pa,550
+hed,550
+enn,547
+ ef,547
+ik ,546
+ve ,546
+så ,545
+rt ,545
+len,540
+ ov,538
+ sp,537
+ort,535
+ ho,535
+g h,531
+art,528
+nen,528
+ mi,527
+lli,527
+ ku,526
+ le,522
+rig,521
+amm,521
+ære,520
+ris,520
+ele,519
+tid,518
+ett,518
+igt,517
+ kr,517
+gge,512
+ndr,511
+sig,510
+ted,510
+t k,509
+ ar,504
+ann,500
+n p,498
+nes,497
+e r,496
+un ,493
+ken,491
+ fa,485
+vor,485
+ to,484
+g o,482
+ bo,481
+ege,480
+omm,479
+d a,479
+let,478
+ fl,478
+led,475
+ors,475
+g e,474
+g m,474
+lem,474
+ngs,473
+ pe,473
+g b,471
+sse,470
+mod,469
+tra,467
+ant,465
+fre,464
+nst,464
+s f,463
+kal,463
+rde,462
+ane,462
+d d,458
+dis,457
+rie,450
+ien,450
+ år,446
+d f,445
+lt ,442
+eve,442
+g t,441
+ate,441
+ørs,440
+ sy,437
+s a,435
+hvo,434
+ert,433
+ben,433
+rte,433
+ite,433
+ ik,431
+ væ,431
+ade,431
+run,429
+øre,428
+vet,427
+ ta,426
+mel,425
+is ,425
+iti,422
+gne,421
+nse,421
+tis,420
+d i,417
+bet,416
+hun,415
+tre,415
+me ,415
+min,414
+r l,414
+ins,411
+e u,409
+s d,405
+ po,402
+lad,401
+ te,400
+pla,399
+ave,397
+skr,397
+s o,396
+g k,395
+ark,394
+gel,393
+bes,392
+jer,391
+vil,391
+org,390
+orm,389
+od ,386
+gte,384
+s i,384
+reg,383
+avn,383
+ ro,383
+hen,381
+i e,380
+lag,380
+are,380
+kel,379
+d o,379
+sid,379
+net,378
+elt,378
+kti,377
+kun,377
+nis,377
+pri,377
+ogs,377
+ppe,376
+met,376
+rik,376
+gan,374
+spi,373
+rd ,372
+i f,372
+n r,371
+åde,371
+nor,371
+eks,370
+ ga,370
+ine,370
+ise,369
+tan,367
+nal,367
+n l,366
+bli,365
+rsk,365
+ by,365
+e n,365
+att,364
+s b,364
+n n,362
+s e,362
+ na,362
+kab,362
+n g,361
+dte,360
+l d,359
+nt ,357
+dig,356
+ så,354
+rem,352
+m d,352
+tro,351
+par,351
+ban,351
+r n,349
+tem,349
+m s,348
+nat,347
+i b,347
+ali,345
+val,345
+tiv,344
+ude,343
+ts ,342
+tag,342
+um ,342
+ jo,342
+gså,341
+ori,340
+l s,339
+ete,339
+alt,338
+d e,335
+her,335
+dle,335
+vde,333
+råd,333
+r u,333
+da ,333
+ld ,332
+ do,331
+gra,331
+sel,330
+fin,328
+rre,328
+ier,328
+t l,326
+r g,325
+ ja,323
+to ,323
+tur,323
+rg ,322
+s m,322
+s h,321
+irk,320
+d h,319
+rel,319
+ pl,318
+amp,318
+pil,317
+t u,317
+tni,317
+sko,317
+ald,317
+tat,316
+van,315
+les,315
+hel,314
+ons,314
+kre,312
+m e,312
+ski,312
+ sl,312
+m f,311
+akt,311
+g p,311
+f s,310
+cer,309
+liv,308
+ode,308
+sku,308
+son,307
+avd,306
+g v,306
+bru,304
+ ne,303
+rs ,301
+ ke,301
+s k,300
+bor,300
+i h,300
+lit,299
+ ca,298
+sit,298
+enh,298
+san,298
+beg,297
+ sø,297
+a d,297
+dli,296
+ mu,296
+giv,295
+pe ,295
+ina,295
+ bi,294
+tør,294
+t g,294
+m a,293
+tig,291
+d t,290
+vid,290
+i o,290
+eds,290
+rup,289
+rk ,289
+rbe,289
+t n,287
+rti,287
+ral,286
+å d,286
+f e,286
+gle,285
+ass,285
+i k,285
+ssi,284
+ffe,284
+igh,283
+abe,283
+agt,283
+ ty,283
+l f,282
+ets,281
+ ch,280
+ag ,280
+erg,280
+tes,279
+ned,279
+d m,279
+int,279
+m h,278
+ds ,276
+ kl,276
+n u,276
+ gi,275
+ole,273
+i a,272
+ ri,272
+i m,271
+rli,270
+eta,269
+træ,268
+ fe,267
+ket,267
+lge,266
+din,266
+ift,265
+sio,265
+ndi,263
+a s,263
+kam,263
+egn,262
+ron,262
+ani,262
+ kø,261
+ie ,260
+ ra,260
+kol,259
+ co,259
+hvi,259
+s p,259
+ør ,259
+ lo,258
+oli,258
+ini,258
+us ,257
+nem,257
+ sv,256
+ghe,255
+ves,255
+tof,255
+s t,255
+rme,254
+hus,254
+kt ,254
+eff,254
+sat,254
+kte,254
+nel,253
+rat,252
+tin,251
+off,251
+arb,251
+tri,250
+rit,249
+dag,249
+byg,249
+ th,248
+i t,248
+esk,248
+ ny,247
+rdi,247
+øbe,246
+fle,246
+l e,245
+ or,245
+ hø,245
+tru,245
+iss,244
+l h,244
+rma,243
+vin,243
+lsk,242
+k s,241
+udg,241
+lis,240
+mpe,240
+ff ,240
+the,240
+bel,239
+ ki,239
+jen,239
+d b,238
+t r,238
+ndl,237
+fer,237
+igg,236
+m o,236
+pan,236
+upp,235
+nce,235
+ærk,235
+sik,234
+erf,234
+ges,233
+å s,233
+jor,232
+era,232
+r r,230
+uni,230
+ian,230
+ ru,230
+kul,229
+bla,229
+ dr,228
+yde,228
+lke,227
+spe,226
+æng,225
+sty,225
+ari,224
+ess,224
+g l,224
+mes,224
+ ju,224
+fik,224
+ona,223
+kla,222
+pol,222
+ivi,222
+rio,222
+vne,222
+uds,222
+gre,221
+ må,221
+rge,221
+m i,221
+teg,221
+ses,220
+hov,220
+stø,219
+dde,219
+erl,219
+ejd,218
+m b,218
+ræk,218
+ont,217
+amt,217
+d p,217
+ust,217
+ ek,217
+ of,216
+bej,216
+n j,216
+eje,216
+lek,216
+øst,215
+orb,215
+mus,215
+raf,215
+ am,215
+nta,215
+fil,214
+ysk,214
+v s,213
+rev,213
+ult,212
+ika,212
+rug,212
+f k,212
+kni,212
+bri,212
+ je,212
+it ,211
+ids,211
+yst,211
+v d,211
+am ,210
+kor,210
+ fu,210
+g u,210
+lie,209
+ læ,209
+eme,209
+sis,209
+d k,209
+opr,208
+erv,208
+l m,208
+as ,207
+xfe,207
+fef,207
+ xf,207
+s v,206
+iet,206
+i l,206
+ytt,206
+a e,206
+ame,206
+tog,206
+jde,206
+ sæ,206
+nav,205
+dsk,205
+tys,205
+ldt,203
+mun,203
+m t,203
+mis,202
+ard,202
+idl,201
+bag,201
+tik,201
+ast,201
+set,201
+omr,200
+tyr,200
+ntr,200
+ørt,199
+ hi,199
+m m,198
+rak,198
+he ,198
+eng,198
+gni,197
+mor,197
+ækk,197
+ato,196
+k f,196
+ næ,196
+e j,196
+ hj,195
+g g,195
+emi,195
+adi,194
+lut,194
+rod,194
+tli,193
+ara,192
+bre,192
+l b,192
+ a ,192
+l o,192
+emm,192
+vir,191
+oge,191
+i v,191
+ure,190
+jek,190
+køb,190
+i p,189
+bol,188
+mid,188
+elv,188
+ham,188
+i i,188
+bro,188
+ads,187
+mat,187
+id ,187
+pen,186
+mil,186
+l i,186
+err,185
+uli,185
+pre,185
+por,185
+a h,184
+ked,184
+lla,184
+a o,184
+emb,184
+ eg,184
+mrå,184
+f f,184
+å e,184
+a m,183
+ilm,183
+ogn,183
+ud ,183
+rse,183
+log,183
+g r,183
+dse,183
+går,182
+øde,182
+føl,182
+d v,182
+nog,182
+ kv,181
+dem,181
+che,180
+ong,180
+dvi,180
+oni,180
+f b,180
+præ,179
+ vo,179
+usi,179
+rog,179
+sæt,178
+iod,178
+op ,178
+tel,178
+kse,178
+ad ,178
+e c,178
+kar,177
+kva,177
+v o,177
+anm,177
+ f ,176
+oll,176
+stå,176
+ung,175
+ n ,175
+s l,175
+ go,174
+ænd,174
+rop,174
+ræn,174
+nha,174
+bar,173
+riv,173
+l k,173
+gav,172
+læg,172
+ft ,172
+cen,172
+olo,172
+slu,171
+ynd,171
+mt ,171
+ lu,171
+udd,171
+use,171
+sve,170
+nke,170
+alg,170
+erd,170
+stu,170
+ølg,170
+høj,170
+lte,170
+nie,170
+lm ,169
+rsi,169
+rve,169
+ro ,169
+ sc,169
+nma,168
+rts,168
+ s ,168
+m k,168
+na ,168
+cha,168
+ora,167
+syd,167
+æst,167
+edi,167
+s r,167
+eni,166
+ank,166
+spo,166
+bin,165
+vn ,165
+las,165
+ric,165
+ nu,165
+f a,164
+s u,164
+tit,164
+ike,164
+k o,164
+ ad,163
+edl,163
+kur,163
+rea,163
+e å,162
+sla,162
+nkt,162
+f h,162
+rad,161
+n ø,161
+ær ,161
+i n,161
+sag,161
+isi,160
+dda,160
+mst,160
+kat,160
+rna,160
+dri,160
+aml,159
+unn,159
+dni,159
+ ni,159
+vej,158
+ygg,158
+æld,158
+ods,158
+hve,158
+bil,157
+sva,157
+erm,157
+ ak,157
+rla,157
+ægt,156
+ykk,156
+ su,156
+udv,156
+a i,155
+ilk,155
+ire,155
+a t,154
+mmu,154
+iel,153
+lær,153
+nti,153
+ri ,153
+tar,152
+sch,152
+ilb,152
+ium,151
+ktr,151
+unk,151
+å a,151
+dat,150
+ich,150
+idt,150
+lba,150
+v h,150
+ lø,150
+ia ,149
+l p,149
+tek,149
+ana,149
+fri,148
+klu,148
+fat,148
+kra,148
+ bu,148
+ndb,148
+iv ,148
+mon,148
+vel,148
+bye,148
+lar,148
+dsa,147
+os ,147
+ita,147
+mål,146
+vik,146
+m v,146
+f t,145
+s g,145
+dog,145
+a f,145
+ks ,145
+omk,144
+arr,144
+erh,144
+a a,144
+ur ,144
+løb,144
+igs,144
+sys,144
+gør,144
+rom,144
+ mø,144
+g n,143
+tom,142
+rif,142
+orh,142
+mbe,142
+tad,142
+meg,142
+rks,141
+ild,141
+als,141
+div,141
+une,141
+f n,141
+fol,141
+lds,140
+oft,140
+ria,140
+a b,140
+n c,140
+v i,140
+ræs,140
+ni ,140
+lok,139
+ få,139
+s n,139
+ign,139
+anc,139
+i r,139
+arl,138
+bbe,138
+ibe,138
+sol,137
+dga,137
+ull,137
+spr,137
+ta ,137
+gn ,136
+orf,136
+eti,136
+tud,136
+uge,136
+rus,136
+ wi,136
+vig,136
+gst,135
+k i,135
+kil,135
+ram,135
+rga,135
+ili,134
+ice,134
+gti,134
+fly,134
+egy,134
+ gu,134
+oms,133
+rho,133
+rn ,133
+erk,133
+øge,133
+ref,133
+rek,133
+ela,133
+øje,133
+fes,133
+lik,133
+i u,133
+ab ,132
+mkr,132
+evi,132
+a v,131
+ial,131
+lub,131
+bed,131
+chr,131
+alb,131
+d l,131
+r c,131
+ dø,131
+rag,131
+ætt,131
+sle,131
+olk,130
+syn,130
+pun,130
+hri,130
+k d,130
+dit,130
+gs ,130
+gyn,130
+søn,129
+itu,129
+nyt,129
+uti,129
+ktø,129
+ton,129
+blo,129
+uss,129
+ost,129
+fun,128
+idi,128
+far,128
+yre,128
+kir,128
+his,128
+rol,128
+søg,128
+odu,128
+åle,128
+å f,127
+reb,127
+rum,127
+mle,126
+ira,126
+ fj,126
+sal,126
+m p,126
+ård,126
+egr,126
+ott,126
+ogl,126
+sek,125
+ls ,125
+by ,125
+bog,125
+dgi,125
+urs,125
+ryk,125
+ ø ,125
+iva,125
+rep,125
+å b,125
+sni,125
+afs,125
+sme,124
+fic,124
+nye,124
+ukt,124
+rud,124
+ime,124
+f m,124
+ose,124
+mag,124
+ema,123
+ ly,123
+dbo,123
+umm,123
+ ir,123
+v f,123
+svi,123
+ov ,123
+fan,123
+lej,123
+niv,123
+ bø,123
+etr,123
+r j,122
+hal,122
+roj,122
+å k,122
+odi,122
+ful,122
+ndo,122
+dom,121
+agn,121
+mal,121
+d g,121
+ogr,121
+stæ,121
+oje,121
+lgt,120
+ nå,120
+l v,120
+omi,120
+fla,120
+ese,119
+ as,119
+god,119
+die,119
+atu,118
+erb,118
+ sm,118
+uro,118
+pos,118
+lst,118
+ce ,117
+ltu,117
+gde,117
+je ,117
+ond,117
+k h,117
+ye ,117
+bra,117
+aft,117
+ogi,117
+sky,117
+å m,117
+yen,117
+ eu,117
+rid,117
+ævn,116
+tab,116
+v a,116
+joh,116
+hje,116
+ry ,116
+orl,116
+ifi,115
+l t,115
+la ,115
+v b,115
+akk,115
+egi,115
+ø x,114
+uer,114
+ils,114
+kin,114
+uld,114
+fal,114
+kov,114
+rfo,114
+a k,113
+rim,113
+oma,113
+ems,113
+nve,113
+slo,113
+rov,113
+of ,113
+ ce,113
+m l,112
+eur,112
+ au,112
+esu,112
+kli,112
+ngl,112
+dal,112
+tje,112
+k a,112
+tie,112
+å g,111
+ebr,111
+kem,111
+ded,111
+lot,111
+k m,111
+ugt,111
+f p,111
+i g,111
+f l,111
+d n,111
+rbi,111
+nan,111
+kes,111
+rri,110
+rhu,110
+uar,110
+åre,110
+av ,110
+k b,110
+eal,109
+nu ,109
+enr,109
+lv ,109
+nsp,109
+ars,109
+vat,109
+kro,109
+rso,109
+æde,109
+ærd,109
+tyd,109
+dsp,109
+ros,109
+esp,108
+jæl,108
+ch ,108
+rfa,108
+omp,108
+sær,107
+dia,106
+ød ,106
+sso,106
+ fæ,106
+ øs,106
+nto,106
+try,106
+yrk,106
+æse,106
+tut,105
+pet,105
+mul,105
+ca ,105
+nri,105
+pel,105
+ikl,104
+oks,104
+tia,104
+edr,104
+orv,104
+død,104
+apa,104
+lys,104
+ørr,104
+ile,103
+efo,103
+lid,103
+ is,103
+hør,103
+o s,103
+å h,103
+k e,103
+ols,102
+ubl,102
+anl,102
+arm,102
+gis,101
+jul,101
+stl,101
+tea,101
+lov,101
+io ,101
+fje,101
+læn,101
+å t,101
+når,101
+kst,101
+rsø,101
+ono,101
+lon,101
+k p,100
+ork,100
+gsm,100
+lat,100
+l r,100
+ebe,100
+ejr,100
+alv,100
+tho,100
+dro,100
+iks,100
+ ræ,99
+ome,99
+vog,99
+l l,99
+bje,99
+bas,99
+ tv,98
+tår,98
+sem,98
+ngr,98
+lme,98
+ ap,98
+m g,98
+num,98
+imo,97
+our,97
+jem,97
+t j,97
+bev,97
+mær,97
+ånd,97
+a p,97
+ksi,97
+ du,96
+cia,96
+græ,96
+tne,96
+næv,96
+gam,96
+ dy,96
+ørn,96
+jan,96
+afi,96
+næs,95
+li ,95
+ope,95
+dti,95
+lav,95
+dra,95
+esl,94
+obe,94
+kle,94
+ im,94
+onc,94
+ny ,94
+ama,94
+be ,94
+yld,94
+asi,94
+tær,94
+ us,94
+oto,93
+ll ,93
+æll,93
+ gå,93
+t c,93
+nov,93
+ck ,93
+nni,93
+ote,93
+leg,93
+ygn,93
+mot,92
+eha,92
+lod,92
+ngd,92
+jør,92
+k t,92
+ pu,92
+løs,92
+ fy,92
+y o,92
+k k,92
+urt,92
+i j,92
+gik,92
+anu,92
+ras,92
+alm,92
+egå,92
+ået,92
+ id,92
+nit,92
+fir,91
+a r,91
+d r,91
+cie,90
+d u,90
+elm,90
+sor,90
+bl ,90
+car,90
+tol,90
+æge,90
+idd,90
+rta,90
+ero,90
+ats,90
+hin,90
+rnb,89
+kto,89
+oha,89
+opt,89
+edd,89
+ut ,89
+ka ,88
+nli,88
+tsa,88
+rød,88
+ici,88
+ hæ,88
+ål ,88
+ma ,88
+anz,87
+ace,87
+l g,87
+sud,87
+top,87
+rib,87
+dla,87
+ tu,87
+fod,87
+esi,87
+oor,87
+ety,87
+kso,86
+nze,86
+ cl,86
+tæn,86
+uns,86
+ v ,86
+tod,86
+f x,86
+orr,86
+ple,86
+kib,86
+ot ,86
+hos,86
+æns,86
+f o,85
+dfø,85
+ami,85
+utt,85
+ops,85
+gjo,85
+pek,85
+ged,85
+a l,85
+ute,85
+yer,84
+ ry,84
+deb,84
+oen,84
+ønd,84
+don,84
+etn,84
+v u,84
+udi,84
+lun,84
+ala,84
+eld,84
+g c,84
+nom,84
+edt,83
+up ,83
+ pi,83
+opp,83
+enk,83
+å v,83
+th ,83
+iol,83
+o b,83
+o m,83
+aj ,83
+eko,83
+app,83
+rue,83
+dir,83
+emp,83
+osi,82
+mos,82
+å i,82
+nba,82
+ bå,82
+fen,82
+a g,82
+lom,82
+f g,82
+ntl,82
+pub,82
+bør,81
+avi,81
+kvi,81
+omh,81
+øn ,81
+rm ,81
+udt,81
+ped,81
+ wa,81
+anv,81
+ejs,81
+olm,81
+ygt,80
+lau,80
+s c,80
+ura,80
+mp ,80
+l u,80
+ata,80
+nar,80
+eda,80
+y s,80
+båd,80
+hån,79
+ti ,79
+sep,79
+rob,79
+oph,79
+rof,79
+odt,79
+roe,79
+fæl,79
+dta,79
+ubb,79
+rvi,79
+eat,79
+aar,79
+sma,79
+gul,79
+mti,78
+opf,78
+ hå,78
+tha,78
+ase,78
+chi,78
+duk,78
+maj,78
+dyr,78
+g j,78
+rto,78
+ok ,78
+emt,78
+gad,78
+ gl,77
+mas,77
+zer,77
+ørg,77
+sål,77
+ngi,77
+spa,77
+eci,77
+dbr,77
+rsa,77
+sho,77
+årh,77
+mæn,77
+udf,77
+nda,77
+ ig,77
+rva,77
+dor,77
+eth,76
+dby,76
+vad,76
+jre,76
+yse,76
+epu,76
+soc,76
+oci,76
+v t,76
+ægg,76
+ume,76
+ em,76

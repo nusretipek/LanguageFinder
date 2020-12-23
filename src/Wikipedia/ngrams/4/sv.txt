@@ -1,0 +1,1483 @@
+ är ,3740
+den ,3056
+ den,2115
+ och,1926
+och ,1925
+ter ,1841
+ med,1521
+n är,1431
+en ä,1287
+r i ,1221
+ av ,1190
+med ,1177
+ste ,1096
+aste,1093
+ten ,1078
+eter,1074
+mete,1037
+ en ,1027
+det ,864
+är e,843
+ ing,826
+aden,824
+r en,784
+eder,768
+som ,764
+r de,762
+ som,754
+er i,749
+e är,744
+nede,742
+örd ,729
+kten,728
+börd,727
+derb,727
+rbör,726
+erbö,726
+n i ,682
+tade,682
+stad,679
+land,674
+ för,664
+en i,655
+ning,647
+en s,644
+ade ,613
+ om ,611
+rakt,607
+ tra,597
+pera,592
+ren ,591
+trak,590
+inga,588
+r me,582
+akte,579
+ande,577
+en r,575
+är m,570
+ i s,566
+ch d,565
+mede,559
+edel,557
+erat,557
+en a,556
+ gen,548
+h de,544
+nade,544
+geno,540
+enom,539
+atur,535
+ var,534
+empe,530
+huvu,527
+uvud,527
+delt,525
+mper,524
+unt ,523
+ mån,518
+i me,516
+temp,511
+är c,510
+ ned,509
+uren,509
+ture,506
+ratu,506
+ger ,505
+nder,502
+ års,502
+en k,501
+ del,500
+te m,499
+ run,499
+r c ,498
+a de,497
+ånad,496
+ltem,495
+elte,495
+e må,494
+te ä,494
+måna,493
+ det,492
+are ,491
+m ne,488
+nitt,487
+ huv,487
+snit,487
+ mm ,487
+gen ,486
+runt,486
+noms,485
+omsn,484
+msni,484
+mm n,484
+ i d,480
+ km ,479
+en v,474
+vuds,473
+är j,471
+tet ,468
+en t,465
+år i,464
+i de,457
+ i t,456
+går ,451
+ lig,449
+e i ,446
+ fin,446
+et k,443
+ingå,443
+unde,443
+n av,442
+ett ,441
+ bes,441
+ngår,440
+gger,439
+ nor,438
+ligg,437
+igge,436
+er d,436
+der ,435
+över,432
+i tr,429
+arte,427
+till,426
+ und,424
+ver ,423
+ öve,423
+s av,421
+ met,416
+ch f,414
+omet,411
+ ett,411
+ilom,408
+nns ,408
+kilo,407
+lome,407
+ til,405
+r om,405
+er o,402
+r ha,400
+ på ,399
+len ,396
+finn,395
+t so,389
+er f,388
+inns,387
+milj,387
+ing ,386
+ed i,385
+er h,385
+amil,380
+nga ,379
+väst,379
+fami,377
+ilje,375
+jen ,373
+erar,370
+ fam,368
+er ö,368
+ slä,365
+ljen,365
+ reg,364
+läkt,363
+r öv,362
+släk,361
+de i,361
+ när,360
+ari ,360
+äkte,359
+vet ,359
+ktet,359
+t km,354
+ster,354
+ kal,353
+uari,352
+ hav,352
+ista,352
+ lan,351
+art ,350
+dera,350
+ngen,349
+n va,348
+have,347
+avet,345
+kall,343
+rna ,341
+er m,340
+rt s,340
+rter,340
+råde,337
+elen,337
+besk,336
+skre,336
+mast,335
+krev,335
+revs,334
+i sl,333
+eskr,333
+rmas,332
+r fi,331
+lig ,331
+dele,330
+en h,330
+s li,329
+ i c,329
+vs a,329
+n ka,328
+evs ,328
+ill ,328
+h fa,328
+rart,327
+list,327
+alla,326
+cata,324
+ cat,324
+a un,324
+ of ,322
+tlig,321
+life,320
+ndet,320
+atal,320
+av l,319
+ lis,316
+gue ,316
+ns l,315
+d i ,314
+talo,314
+ska ,314
+d oc,314
+e of,313
+ue o,313
+om h,312
+alog,312
+ga u,311
+ lif,310
+ife ,310
+ogue,310
+f li,309
+of l,309
+logu,309
+är d,306
+ed m,306
+ kva,299
+itt ,299
+ri m,299
+en l,297
+d är,296
+orra,296
+att ,296
+dsta,296
+i ca,294
+n de,293
+ då ,293
+nare,293
+v la,293
+udst,291
+om b,285
+n re,283
+a är,283
+ tor,279
+ mil,278
+en b,277
+stra,277
+sta ,275
+en o,275
+nen ,274
+n to,273
+ i g,273
+illi,271
+tt m,271
+sen ,268
+för ,265
+m hu,264
+gast,260
+regn,260
+llas,260
+a oc,259
+r mi,259
+å me,258
+rd o,257
+adra,257
+ngar,256
+c de,255
+ per,255
+mill,255
+smed,254
+varm,254
+arma,253
+m be,253
+last,252
+igas,252
+ c d,252
+atki,251
+kvad,251
+vadr,251
+c oc,251
+drat,250
+ jan,250
+n li,250
+ratk,250
+tkil,250
+ c o,249
+ inv,249
+ed c,249
+ i n,249
+ig å,248
+g år,248
+årsm,248
+rsme,248
+torr,248
+ittl,248
+d c ,248
+i ge,248
+då m,248
+ra d,247
+llim,247
+ syd,246
+janu,246
+anua,246
+ han,246
+nuar,246
+n ru,246
+t me,245
+niga,245
+en p,244
+en d,244
+rd ä,244
+ttli,244
+imet,244
+ber ,244
+lime,243
+nde ,242
+årsn,242
+rsne,242
+r in,242
+gnig,242
+rast,242
+sned,242
+egni,242
+d mm,242
+t mm,242
+rras,242
+ånar,241
+våna,241
+invå,241
+nvån,241
+r kv,238
+r ju,237
+arna,237
+r et,235
+lima,235
+r ja,234
+and ,232
+er k,231
+nord,230
+klim,230
+imat,230
+en å,228
+des ,228
+en f,227
+ att,227
+ pro,221
+ de ,220
+ c g,217
+t om,217
+c ge,215
+folk,215
+inge,215
+förs,214
+r oc,212
+n oc,211
+ har,210
+ öst,209
+erad,209
+t i ,209
+s in,207
+tra ,206
+per ,206
+var ,205
+ sam,201
+ jul,201
+han ,199
+mber,199
+ings,197
+hete,196
+befo,196
+ vid,196
+juli,196
+n år,195
+uli ,194
+efol,194
+ kom,194
+ väs,193
+st o,192
+vid ,191
+s oc,190
+dväs,190
+är a,190
+embe,189
+t be,188
+terr,188
+e pe,188
+g i ,188
+örst,188
+ ter,187
+har ,186
+ler ,186
+olka,186
+re p,186
+inse,185
+ien ,185
+ hög,184
+en m,184
+ovin,184
+er s,184
+eten,183
+komm,183
+men ,183
+a in,181
+udsa,181
+dsak,181
+ller,180
+prov,180
+rovi,179
+ pun,178
+ i k,178
+ omg,178
+räng,178
+omgi,176
+i då,176
+t de,176
+änge,175
+norr,175
+områ,174
+mgiv,174
+mråd,174
+onen,173
+en n,173
+rrän,173
+s är,172
+t är,172
+ söd,172
+errä,172
+n in,171
+berg,169
+ råd,168
+vins,166
+ala ,164
+mat ,164
+nsen,163
+et g,161
+åder,161
+nska,160
+ frå,160
+rhet,160
+från,159
+rån ,159
+växt,159
+et i,158
+ta p,158
+ kil,158
+a i ,157
+ i h,157
+i nä,157
+ i p,157
+gsta,156
+e in,156
+närh,155
+ärhe,155
+högs,155
+elle,154
+d in,153
+öste,153
+ione,153
+ ber,152
+ögst,152
+et l,151
+ väx,151
+garn,151
+n hö,150
+ring,150
+a pu,150
+let ,149
+unkt,149
+a ru,148
+punk,147
+ mar,146
+at r,146
+nkte,146
+gust,145
+ands,144
+äst ,144
+km s,144
+är k,143
+ två,143
+m no,143
+rad ,143
+vnin,142
+ men,142
+t oc,142
+n ha,141
+at m,141
+ansk,141
+t rå,140
+km n,139
+i pr,138
+r nä,138
+t li,137
+usti,137
+ella,137
+ aug,137
+kat ,137
+na r,137
+stör,136
+lle ,136
+ugus,136
+augu,136
+ stö,135
+ i o,135
+ommu,134
+n på,134
+mmun,134
+et s,133
+sart,133
+lla ,132
+iska,131
+et e,131
+givn,131
+skog,131
+lkat,131
+ ell,131
+ivni,130
+sti ,130
+ens ,130
+t va,129
+ndra,129
+et t,129
+tion,127
+d de,127
+vatt,127
+somr,126
+ sjö,126
+r ma,126
+ium ,126
+ades,125
+älle,125
+samh,125
+e sa,125
+tten,124
+om f,124
+re s,124
+ndsk,123
+pen ,123
+öder,122
+dra ,122
+ngso,122
+ upp,122
+cent,122
+äste,122
+ar i,121
+sis ,121
+söde,121
+n st,121
+av s,121
+iga ,120
+ kan,120
+r au,120
+en c,120
+gar ,120
+de s,120
+sak ,120
+atte,120
+ch s,120
+et o,119
+n me,119
+gsom,119
+ar e,119
+tral,119
+i hu,118
+er n,118
+et a,117
+är n,117
+stor,117
+är f,117
+en g,117
+ san,115
+i om,115
+rade,115
+erna,115
+s me,115
+e st,114
+en e,113
+ sto,113
+häll,112
+ vat,112
+tnin,112
+kūh ,112
+är s,112
+n vi,112
+m fö,112
+h e ,111
+s i ,111
+ost ,111
+ sve,110
+ppen,110
+mhäl,110
+et f,110
+amhä,110
+ lak,110
+ina ,109
+lar ,109
+er t,108
+n tv,108
+d me,108
+era ,107
+alet,107
+ i f,106
+entr,106
+e de,106
+ kūh,106
+skap,106
+regi,105
+ket ,105
+om s,105
+före,105
+igen,105
+ntra,105
+n no,105
+dost,104
+lake,104
+ år ,104
+dels,104
+nnin,102
+lige,102
+rst ,102
+ cen,102
+te s,101
+ven ,101
+rre ,101
+ake ,101
+an ä,101
+n so,101
+är h,101
+fter,100
+kog ,100
+febr,100
+ruar,100
+ feb,100
+brua,100
+ebru,100
+li d,100
+ker ,100
+ sin,99
+ art,99
+et d,99
+igt ,98
+ pla,98
+ sta,98
+ling,98
+er a,98
+östr,98
+kan ,97
+efte,97
+ sig,97
+tt s,97
+t in,97
+atio,97
+ūh e,97
+ydvä,96
+ae i,96
+sydv,96
+re ä,96
+rdvä,95
+n ti,95
+st b,95
+n br,95
+tale,95
+ordv,95
+ästr,95
+et b,94
+n be,94
+et m,94
+orr ,94
+rinn,94
+t ha,94
+ion ,94
+spel,93
+r at,93
+rikt,93
+rr o,93
+n fö,92
+oppe,92
+ner ,92
+ans ,92
+r fe,91
+et ä,91
+best,91
+ bla,91
+la d,90
+örre,90
+inni,90
+n ce,90
+sig ,90
+ hon,90
+n ku,90
+ fra,90
+ eft,90
+törr,90
+åde ,89
+le ä,89
+het ,89
+ kup,89
+t fö,89
+ tal,89
+ min,89
+ ska,88
+gion,88
+topp,88
+n vä,88
+ gle,88
+växe,88
+t st,88
+rten,88
+xer ,88
+ bra,88
+äxer,88
+de t,88
+r av,88
+egio,87
+plat,87
+uper,87
+idae,87
+rand,86
+kupe,86
+m ös,86
+avri,86
+stat,86
+i är,86
+km ö,86
+dae ,86
+er e,86
+ärma,86
+vrin,86
+ ant,86
+r no,86
+er v,86
+n sy,85
+i ka,85
+tar ,85
+närm,85
+son ,85
+rsta,85
+erg ,85
+ rik,85
+två ,84
+ bar,84
+ådet,84
+r fö,84
+n om,84
+är o,84
+ int,83
+gles,83
+llan,83
+amma,83
+verk,83
+ort ,83
+hon ,83
+ i a,83
+nt k,83
+e oc,82
+li m,82
+dnin,82
+tt b,82
+s fö,82
+gare,82
+ära ,82
+namn,82
+mark,82
+ick ,81
+ighe,81
+r ti,81
+ top,81
+ensk,81
+pela,81
+ kon,81
+en j,81
+rala,81
+r so,80
+an d,80
+r hu,80
+t ga,80
+nom ,80
+anta,80
+ghet,80
+ str,80
+estå,80
+lade,80
+ i e,80
+ åt ,79
+ad m,79
+et h,79
+ dec,79
+e ha,79
+n he,78
+tår ,78
+gans,78
+skt ,78
+get ,78
+bred,78
+ar a,77
+klig,77
+ and,77
+blan,77
+står,77
+dan ,76
+ia o,76
+stri,76
+r si,76
+ti m,76
+om k,76
+ tro,76
+ll s,76
+rige,76
+endr,76
+ jun,76
+pet ,76
+ vil,76
+ nam,75
+ar f,75
+ par,75
+an i,75
+ gan,75
+liga,75
+av d,75
+jord,75
+ spe,75
+an s,75
+n sa,75
+ar o,75
+dece,74
+inte,74
+cemb,74
+även,74
+ kli,74
+m sy,74
+ecem,74
+ tid,74
+ar s,74
+ äve,74
+ets ,74
+i no,73
+n sj,73
+san ,73
+s de,73
+elar,73
+ sep,73
+tes ,73
+iskt,73
+en u,73
+krin,73
+ng i,73
+ i b,73
+n sk,72
+lesb,72
+sbef,72
+tera,72
+nära,72
+döst,72
+ö i ,72
+esbe,72
+tt v,72
+om a,72
+drag,72
+ora ,71
+andr,71
+ där,71
+man ,71
+nlig,71
+dre ,71
+r be,71
+m sö,71
+tt h,71
+del ,71
+lan ,71
+istr,71
+t ka,71
+sver,70
+av m,70
+ars ,70
+r är,70
+sakl,70
+ ste,70
+fjär,70
+ch k,70
+ör a,70
+akli,70
+ag i,70
+veri,70
+en ö,70
+vens,69
+tend,69
+tan ,69
+sept,69
+ tät,69
+a fö,68
+mun ,68
+ i m,68
+nkli,68
+r se,68
+ des,68
+dska,68
+tt d,68
+n ma,68
+ hel,68
+ata ,67
+äxte,67
+epte,67
+om d,67
+r vi,67
+tart,67
+h är,67
+ken ,67
+latt,67
+ra n,67
+i in,67
+juni,67
+xter,66
+ptem,66
+re i,66
+temb,66
+r ar,66
+ober,66
+sin ,66
+t no,66
+ada ,66
+rut ,66
+amn ,65
+r va,65
+ for,65
+sjön,65
+bola,65
+ndre,65
+av j,65
+o de,65
+r tr,65
+ka t,64
+nter,64
+spor,64
+ria ,64
+ stä,64
+r på,64
+jön ,64
+bruk,64
+ving,64
+mars,64
+ mon,64
+dium,64
+ ins,64
+tta ,64
+g ki,64
+t av,64
+us o,64
+erig,63
+uni ,63
+rag ,63
+ nat,63
+m vä,63
+ente,63
+ligt,63
+isk ,63
+dela,63
+ än ,63
+tätb,62
+et v,62
+ätbe,62
+äril,62
+e so,62
+g är,62
+ fjä,62
+a me,62
+vara,62
+ara ,62
+g oc,62
+järi,62
+ i r,62
+tbef,61
+las ,61
+smar,61
+ gru,61
+ordo,61
+ man,61
+nd a,61
+t mo,61
+ omk,61
+ar d,61
+rg i,61
+or i,61
+is i,61
+ maj,61
+olag,61
+is ä,61
+rar ,61
+tt k,61
+ar m,60
+inne,60
+elst,60
+om t,60
+km v,60
+ta i,60
+är t,60
+indr,60
+ län,60
+pisk,60
+ fly,60
+sten,60
+us i,60
+t el,60
+ bre,60
+og o,60
+ bas,60
+de h,60
+ ann,60
+trop,60
+nien,59
+vann,59
+o är,59
+ment,59
+lia ,59
+samm,59
+ch i,59
+t te,59
+kad ,59
+edan,59
+ch l,59
+aren,59
+edde,59
+de l,59
+ensi,59
+et p,59
+ra s,58
+mkri,58
+ had,58
+omkr,58
+a no,58
+opis,58
+tens,58
+xtar,58
+nte ,58
+ark ,58
+eart,58
+ dis,58
+äxta,58
+ch a,58
+ avr,58
+v de,57
+skal,57
+av t,57
+ are,57
+hade,57
+ obe,57
+e fö,57
+d mi,57
+ch h,57
+s st,57
+aget,57
+ount,57
+ika ,57
+na i,57
+maj ,57
+ang ,57
+tobe,57
+är i,57
+idiu,57
+ig r,56
+erie,56
+area,56
+mind,56
+k är,56
+länd,56
+skli,56
+orea,56
+tare,56
+tus ,56
+id b,56
+ föd,56
+saml,56
+ ver,56
+hand,56
+iktn,56
+ mel,56
+n ko,56
+ktni,56
+ch v,55
+rd s,55
+n fj,55
+er p,55
+mer ,55
+myce,55
+e li,55
+m är,55
+s ut,55
+lsta,55
+mune,55
+slut,55
+nna ,55
+t la,55
+ch m,55
+awa ,55
+onom,55
+rdos,55
+es s,55
+ all,55
+g ri,55
+ropi,55
+vand,55
+d ba,55
+opsi,55
+rich,55
+er b,54
+mman,54
+m de,54
+la k,54
+avan,54
+e te,54
+lag ,54
+sydo,54
+nlan,54
+e me,54
+ mot,54
+ica ,54
+t an,54
+sjö ,54
+de a,54
+lkad,54
+t år,54
+rra ,54
+t gl,54
+å in,54
+kape,54
+a re,53
+ige ,53
+ the,53
+us ä,53
+nes ,53
+inna,53
+ydos,53
+tor ,53
+ lin,53
+ng k,53
+ch t,53
+lera,53
+okto,53
+ana ,53
+a st,53
+ nov,53
+mell,53
+n sv,53
+rätt,53
+dist,53
+else,53
+les ,53
+ters,53
+ras ,53
+net ,53
+a ti,53
+e än,53
+ell ,52
+än t,52
+rat ,52
+anna,52
+ktob,52
+ sko,52
+form,52
+sven,52
+ns i,52
+ okt,52
+ jor,52
+obef,52
+bore,52
+ch ä,52
+i ko,52
+bygg,51
+a kl,51
+ i i,51
+vå i,51
+r fr,51
+sitt,51
+ inn,51
+nove,51
+jö i,51
+ nog,51
+es o,51
+psis,51
+ch r,51
+g ob,51
+rils,51
+lage,51
+hus ,51
+ödra,51
+hans,51
+södr,51
+tate,51
+t på,51
+ean ,51
+sera,51
+ats ,51
+nger,51
+född,51
+lis ,51
+de f,51
+n ta,51
+nog ,50
+da d,50
+mlin,50
+inla,50
+iell,50
+ fle,50
+aria,50
+kana,50
+base,50
+nan ,50
+stäl,50
+nsis,50
+oner,50
+nada,50
+ fic,50
+ntal,50
+ phr,50
+ti d,50
+vilk,50
+sion,50
+ kor,50
+t en,50
+n en,50
+ bor,50
+t ti,50
+ i l,50
+unen,50
+n bo,50
+ i v,49
+n or,49
+band,49
+tori,49
+e av,49
+ col,49
+n sö,49
+kyrk,49
+ sit,49
+ng o,49
+ng s,49
+n fi,49
+ad d,49
+alis,49
+tvåv,49
+åvin,49
+edni,49
+av a,49
+våvi,49
+otta,49
+ilsa,49
+s ko,49
+ni m,49
+ivan,49
+a la,49
+erut,49
+lsar,49
+tern,49
+ van,49
+dess,49
+ ans,48
+v jo,48
+r ok,48
+hrag,48
+ydös,48
+nt p,48
+ycke,48
+ragm,48
+om e,48
+tt n,48
+sydö,48
+om p,48
+phra,48
+järn,48
+a tä,48
+an f,48
+a sa,48
+amli,48
+na o,48
+av e,48
+nsk ,48
+tt a,48
+id s,48
+ände,48
+n an,48
+es i,48
+omyc,48
+ lac,48
+tter,47
+av f,47
+täll,47
+ånga,47
+lare,47
+där ,47
+an h,47
+flyg,47
+aten,47
+n tr,47
+es a,47
+mot ,47
+n gr,47
+pres,47
+ran ,47
+ng a,47
+an t,47
+ sav,47
+s so,47
+on o,47
+fick,47
+ ble,47
+n fr,47
+real,47
+emen,47
+ch b,47
+a ko,47
+ omr,47
+n ja,47
+ung ,47
+giva,46
+part,46
+e la,46
+ocks,46
+ch p,46
+nt m,46
+skri,46
+ bru,46
+ak b,46
+tzon,46
+ myc,46
+midi,46
+ ock,46
+gear,46
+tric,46
+ cha,46
+strä,46
+matz,46
+agmi,46
+zone,46
+er ä,46
+nas ,46
+t vi,46
+ tri,46
+d an,46
+an a,46
+ödd ,46
+ngea,46
+gor ,46
+skil,46
+ hem,46
+ilke,45
+på k,45
+nt b,45
+vemb,45
+t fi,45
+anth,45
+ in ,45
+ta ä,45
+g tr,45
+ra o,45
+arn ,45
+anad,45
+ kyr,45
+tt f,45
+ i ö,45
+ ind,45
+tisk,45
+an v,45
+i i ,45
+ mal,45
+gård,45
+a co,45
+r km,45
+ovem,45
+et n,45
+a tr,44
+lång,44
+de ä,44
+l oc,44
+atzo,44
+ssa ,44
+gmid,44
+eala,44
+an m,44
+t he,44
+ng ä,44
+a av,44
+ hen,44
+et c,44
+rden,44
+fler,44
+redd,44
+t ki,43
+ mou,43
+lev ,43
+m in,43
+lus ,43
+m en,43
+t at,43
+idig,43
+seda,43
+ril ,43
+rese,43
+un i,43
+ar b,43
+av g,43
+ ott,43
+myck,43
+dden,43
+a ha,43
+öret,43
+blev,43
+cket,43
+ lån,43
+törs,43
+ent ,43
+asen,43
+ndel,43
+tran,43
+kvar,43
+apet,43
+reta,43
+a vä,43
+ckså,42
+e ti,42
+ gra,42
+ll e,42
+kså ,42
+sava,42
+de d,42
+arbe,42
+redn,42
+nomi,42
+a ma,42
+nt c,42
+moun,42
+ slu,42
+gång,42
+ sti,42
+lac ,42
+eran,42
+is o,42
+tt ö,42
+rupp,42
+ vis,42
+ende,42
+ utb,42
+rs m,42
+tal ,42
+i re,42
+cera,42
+älla,42
+ wil,42
+m ti,42
+i st,42
+ pol,42

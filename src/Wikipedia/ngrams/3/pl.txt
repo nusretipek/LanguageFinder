@@ -1,0 +1,2066 @@
+ w ,5381
+ po,4096
+ie ,4018
+nie,3586
+ch ,3356
+ pr,3161
+ na,3093
+na ,2879
+ej ,2518
+rze,2472
+go ,2303
+ego,2295
+owa,2207
+prz,2179
+sta,2085
+ do,2068
+ za,1949
+ i ,1859
+dzi,1853
+ski,1807
+ ro,1708
+kie,1682
+ych,1682
+ z ,1591
+ je,1545
+ia ,1539
+ny ,1505
+ wy,1483
+ si,1477
+wie,1476
+ów ,1474
+iej,1467
+a w,1466
+ani,1434
+a p,1396
+ost,1396
+ła ,1379
+em ,1376
+ mi,1375
+ku ,1360
+ ko,1360
+nia,1334
+ał ,1319
+ier,1306
+wan,1306
+ st,1294
+do ,1291
+ki ,1269
+rzy,1260
+ach,1237
+eni,1214
+ym ,1203
+e w,1167
+mie,1158
+się,1155
+ię ,1144
+ ni,1108
+czn,1095
+ od,1062
+e p,1055
+zie,1049
+ji ,997
+i w,977
+ści,959
+ne ,959
+a s,942
+ka ,922
+owi,922
+owe,917
+owy,898
+cze,885
+o p,878
+w p,877
+nyc,876
+est,868
+ ma,863
+ wi,863
+i p,862
+pod,862
+ cz,861
+ała,849
+o w,832
+str,828
+ii ,817
+icz,815
+rok,808
+zos,804
+czy,799
+cji,789
+ieg,788
+e s,788
+oku,781
+w r,773
+acj,773
+nic,771
+dow,766
+ pa,762
+cie,760
+tał,756
+zy ,752
+any,751
+ pi,750
+a z,749
+ist,747
+e z,740
+dni,736
+ te,732
+wa ,731
+now,719
+y w,716
+pie,716
+no ,714
+cza,706
+nik,700
+st ,696
+y p,690
+a n,682
+ ka,680
+kow,680
+pro,675
+ re,675
+ by,674
+zen,673
+ tr,669
+od ,665
+sto,664
+ ja,663
+row,663
+trz,662
+jąc,661
+wał,655
+ci ,652
+był,649
+ich,644
+ze ,643
+yst,639
+a d,638
+mi ,637
+u w,635
+pow,632
+ in,632
+ mo,631
+jes,628
+kon,626
+ter,626
+ent,622
+nym,611
+ce ,610
+tra,610
+ast,607
+pol,606
+któ,606
+odz,603
+rac,601
+nej,601
+ zo,598
+ li,596
+ta ,595
+sze,593
+rod,592
+cho,591
+tow,591
+ona,591
+pra,586
+a m,584
+ły ,583
+ali,581
+ami,581
+tór,579
+iem,578
+ycz,578
+ sz,578
+za ,577
+zna,573
+tor,572
+raz,571
+ wo,570
+erw,570
+o s,569
+gra,564
+iel,562
+ran,561
+sie,561
+a r,559
+zas,558
+ora,557
+e n,557
+iał,555
+y z,554
+ion,553
+im ,552
+ył ,551
+ ob,548
+a o,547
+ośc,545
+cy ,545
+szy,544
+a t,543
+w s,543
+ kt,541
+je ,539
+ają,539
+u p,538
+iec,534
+w w,532
+ejs,532
+wy ,530
+a k,529
+ or,526
+i z,525
+ sp,523
+zon,522
+i s,522
+ gr,521
+o z,515
+roz,513
+ ta,513
+ano,513
+ko ,511
+ien,511
+neg,509
+ana,509
+w k,508
+stw,505
+tan,504
+m w,504
+tyc,502
+jed,501
+aln,499
+edn,497
+h w,493
+oni,490
+az ,488
+lic,488
+ez ,486
+ale,486
+iu ,486
+mia,485
+ to,485
+ca ,483
+ kr,481
+owo,479
+ra ,478
+wsz,477
+zez,475
+ane,475
+ska,475
+ako,472
+że ,470
+ńsk,468
+jak,466
+ina,466
+tac,463
+y s,462
+ony,458
+le ,457
+wia,456
+ata,456
+min,455
+ a ,454
+zys,453
+to ,451
+ło ,451
+ocz,445
+e d,444
+ ty,443
+wej,441
+e o,440
+awi,435
+oli,432
+ies,431
+e m,431
+woj,429
+o k,427
+wni,427
+ me,427
+ sa,425
+ole,425
+ono,424
+adz,423
+era,423
+ ra,423
+arz,422
+ la,422
+ ba,420
+ no,420
+ty ,420
+wyc,418
+ ch,417
+ se,417
+ dz,416
+kim,416
+ry ,416
+ł w,416
+a i,415
+wsk,415
+ os,413
+i n,412
+spo,412
+ną ,411
+ada,410
+tni,410
+la ,410
+esz,408
+ść ,408
+ini,408
+h p,407
+ fi,405
+ek ,403
+li ,401
+o o,401
+sty,399
+i k,399
+i o,399
+lsk,398
+ols,397
+o n,396
+a j,396
+ ws,395
+ywa,394
+tar,394
+ł s,393
+po ,393
+rów,392
+u z,391
+jsk,390
+o d,389
+i d,389
+i m,386
+ele,386
+m p,386
+lat,385
+war,384
+z p,384
+niu,383
+we ,381
+naj,379
+ił ,378
+acz,377
+zes,375
+a b,374
+ecz,374
+tu ,373
+eci,372
+ją ,372
+zne,371
+y n,370
+w d,368
+ wa,366
+zny,365
+ni ,365
+art,364
+ato,364
+lin,364
+ dr,363
+ows,363
+bie,359
+ lu,358
+ika,356
+ le,356
+cki,356
+w t,355
+nio,355
+o r,353
+ br,352
+i i,351
+stę,350
+j p,350
+par,349
+ we,348
+kom,348
+e k,347
+ste,347
+ech,347
+j w,347
+kic,346
+ują,345
+zec,345
+szk,345
+two,344
+świ,344
+zac,343
+one,343
+and,342
+zia,342
+en ,342
+wo ,341
+tro,341
+ę w,340
+dy ,339
+ówn,339
+a a,339
+cja,339
+nac,338
+poc,338
+twa,337
+zeg,336
+ało,336
+tęp,335
+ o ,335
+cha,335
+poł,335
+ bi,333
+odn,332
+rws,332
+y d,330
+kol,329
+mis,328
+ sk,328
+ący,327
+ers,327
+o m,326
+ św,326
+ak ,326
+tak,325
+ość,325
+w l,324
+nal,324
+ram,323
+ków,323
+ zw,322
+arc,322
+ ze,321
+emi,320
+zym,319
+sza,319
+szc,318
+ate,317
+er ,317
+ de,317
+ron,317
+ zn,316
+y o,316
+sow,315
+orz,315
+odo,314
+o t,314
+wod,314
+omi,314
+e i,313
+ied,312
+oko,312
+pos,312
+ały,311
+ian,311
+e j,311
+ari,310
+ja ,310
+ al,310
+e t,309
+a c,308
+m z,308
+zcz,308
+w z,308
+bud,307
+wys,307
+a l,307
+mar,307
+eli,306
+ ok,306
+czo,306
+on ,305
+ an,304
+ekt,304
+ład,303
+oje,303
+poz,303
+e b,302
+m s,302
+raw,302
+czą,301
+pre,299
+w o,299
+udo,298
+zni,297
+ ki,297
+noś,297
+tem,297
+nta,296
+pół,295
+ańs,293
+ op,291
+zaj,290
+zyc,290
+wym,290
+czę,290
+ au,289
+ą w,289
+sko,289
+hod,288
+tur,286
+ać ,285
+erz,285
+rni,284
+as ,283
+yjn,283
+y m,281
+lny,281
+w n,280
+an ,280
+w m,279
+ką ,277
+w b,276
+jsc,275
+in ,274
+ ar,274
+zed,274
+u n,273
+ bo,273
+ł p,272
+taw,272
+por,272
+men,271
+a g,271
+da ,271
+e r,270
+kra,269
+dan,269
+zył,269
+usz,268
+isk,268
+u s,268
+kac,266
+ pó,266
+uje,265
+mu ,264
+rez,263
+rem,263
+ dw,263
+bra,262
+ące,262
+ da,262
+w c,261
+ę p,260
+ero,260
+oro,259
+i a,258
+ so,258
+cow,257
+nas,257
+lek,257
+y k,256
+kar,256
+wal,256
+gen,256
+aro,256
+zwi,256
+weg,255
+ser,254
+jeg,254
+nad,253
+iat,252
+wor,252
+i t,252
+yła,251
+ą p,251
+wię,251
+ bu,250
+i r,250
+ymi,249
+ sy,249
+lit,249
+du ,248
+ąc ,248
+ gd,248
+uto,248
+u o,247
+zej,247
+i g,247
+i b,247
+ere,247
+cia,246
+unk,246
+teg,246
+ r ,245
+uli,245
+ go,244
+m i,244
+uni,244
+lis,243
+łow,243
+zer,242
+lan,242
+óry,242
+ońc,242
+rsk,242
+ wł,242
+ fr,241
+wią,241
+zan,241
+zyk,240
+a u,239
+szt,239
+ be,239
+for,238
+ars,238
+jny,238
+nte,237
+nan,237
+m n,236
+enc,236
+h z,236
+ern,235
+aty,234
+ ur,234
+at ,233
+res,233
+ią ,233
+awa,233
+nar,232
+z n,231
+y j,231
+ery,231
+o i,231
+cen,230
+o j,230
+w i,230
+ncj,229
+osi,228
+y t,228
+zow,227
+ard,227
+óre,227
+sce,226
+rak,225
+dru,224
+ pe,224
+ma ,224
+ont,223
+zaw,223
+own,223
+zyn,223
+lne,223
+odc,222
+ję ,222
+dla,222
+eri,222
+ren,222
+yni,222
+rzo,222
+ ce,222
+by ,221
+o b,221
+dze,221
+ mu,221
+lu ,221
+och,221
+wic,220
+ ró,220
+cyj,220
+pad,219
+z w,219
+mat,219
+eż ,219
+koń,219
+esi,219
+iek,218
+kła,218
+nis,218
+e a,218
+ ul,218
+i j,218
+zem,216
+ że,215
+o c,214
+pni,214
+ad ,214
+łów,213
+zar,213
+yci,212
+orm,211
+oso,211
+tów,211
+odu,211
+h s,211
+lni,211
+nim,210
+ kl,210
+ ha,210
+kcj,210
+ros,210
+śni,209
+u d,209
+ias,209
+waj,209
+ ru,209
+łu ,209
+pis,209
+e c,209
+u i,208
+ząc,208
+sam,208
+ rz,208
+ież,208
+u r,207
+lub,207
+j s,207
+ę z,207
+lar,207
+rad,206
+ang,206
+nał,205
+i c,205
+uro,205
+jow,205
+ wr,205
+ co,205
+zak,204
+m k,204
+iow,204
+kan,204
+tym,204
+ara,203
+ene,203
+rał,203
+lej,203
+iąz,203
+um ,203
+ner,203
+gie,202
+z k,202
+uch,202
+aut,202
+y i,202
+zło,202
+wad,202
+anc,201
+m o,201
+w g,200
+e l,200
+olo,200
+udn,200
+ dl,199
+dyn,199
+wyd,199
+zko,199
+ lo,199
+zam,199
+spó,198
+h o,198
+kaz,198
+ame,198
+yna,197
+ą s,197
+wą ,197
+ług,197
+icy,197
+ gł,196
+run,196
+ryc,195
+okr,195
+o a,195
+edy,195
+ zd,195
+dob,195
+ńcz,194
+wła,194
+tal,194
+j z,193
+o u,193
+ju ,193
+yka,193
+acy,193
+z z,193
+źni,192
+j r,192
+ześ,192
+ł z,191
+ el,191
+w a,191
+ pu,191
+ędz,191
+gru,191
+ tu,191
+osz,191
+ę n,190
+reg,190
+bar,190
+ ca,190
+ł d,190
+m d,190
+m m,189
+akż,189
+uży,189
+nat,189
+kże,189
+u k,189
+ik ,188
+inn,188
+wol,188
+y b,187
+dos,187
+kor,187
+log,187
+moż,187
+dno,187
+oło,186
+ogi,186
+nos,185
+stk,185
+iew,185
+ant,185
+atu,184
+eck,184
+ieś,184
+wer,184
+e g,184
+dcz,183
+żon,183
+cz ,183
+h i,182
+fil,182
+akt,182
+is ,182
+den,182
+dłu,182
+oln,181
+ ge,181
+sku,181
+fra,180
+ria,180
+mię,180
+zka,180
+ino,179
+fin,179
+kre,179
+jne,179
+ są,179
+ust,178
+bli,178
+imi,178
+dal,178
+sa ,178
+ ku,178
+k p,177
+ore,177
+iad,177
+leż,177
+tki,177
+a f,176
+i u,176
+ade,176
+tat,176
+pon,175
+te ,175
+z r,175
+mer,175
+ola,174
+re ,174
+low,174
+raj,174
+h n,174
+ior,174
+ewi,173
+man,173
+oda,173
+cję,173
+e u,172
+ącz,172
+twi,172
+ugi,172
+gan,172
+tec,172
+tru,172
+rza,171
+t p,171
+ysk,171
+iki,171
+sch,171
+und,171
+asi,171
+t w,171
+u b,171
+eze,170
+wyk,170
+ucz,170
+eda,170
+dzy,170
+ory,170
+mow,169
+eta,169
+h d,169
+ sw,169
+mac,169
+zu ,168
+ ii,168
+ę d,168
+leg,168
+ans,167
+ ga,167
+koś,167
+ogr,167
+oty,167
+aki,167
+ozp,166
+pla,166
+ ży,166
+ową,166
+u m,166
+opa,166
+stu,166
+oby,166
+y r,165
+z d,165
+ięc,165
+gu ,165
+eks,164
+met,164
+z m,164
+h m,164
+noc,164
+rdz,164
+ sł,164
+k w,164
+ite,164
+sła,164
+łąc,164
+gmi,163
+m r,163
+y a,163
+dna,163
+ gm,163
+oto,162
+opr,162
+rma,162
+nny,162
+obi,162
+pom,162
+rug,161
+or ,160
+nu ,160
+ł n,160
+kto,160
+rzą,160
+len,160
+niz,160
+oma,159
+i l,159
+otn,159
+ark,158
+wis,158
+opi,158
+ uk,157
+koł,157
+roc,157
+al ,157
+pot,156
+pok,156
+edz,156
+ort,156
+mon,156
+iet,155
+n w,155
+chi,155
+kat,155
+raf,155
+ajd,155
+ral,155
+ber,154
+ięk,154
+eń ,154
+enn,154
+eśn,154
+zki,154
+e f,154
+int,154
+słu,153
+z s,153
+ zm,153
+ten,153
+zpo,153
+han,153
+ców,153
+w j,153
+ m ,153
+ di,153
+ala,153
+epr,153
+med,152
+ępn,152
+har,152
+rii,152
+zek,152
+woś,152
+zew,152
+zał,152
+y u,152
+wsp,152
+h k,152
+ął ,152
+ksz,152
+che,151
+ytu,151
+lem,151
+naz,151
+ą z,151
+yda,150
+o g,150
+obu,150
+ryk,150
+ wz,150
+asz,149
+es ,149
+rop,149
+cią,149
+odp,149
+rob,148
+poj,148
+ dy,148
+lud,148
+org,148
+chn,148
+nak,148
+dem,148
+ing,148
+ hi,148
+ori,148
+m t,148
+dar,147
+obe,147
+ł m,147
+awo,147
+liz,146
+ł t,146
+kla,146
+są ,146
+ kw,146
+ica,146
+ pl,146
+ ju,146
+rga,146
+łoż,145
+ga ,145
+red,145
+udz,145
+ą d,144
+głó,144
+bio,144
+ili,144
+ope,144
+iła,144
+isa,144
+nki,144
+jsz,144
+dzo,144
+iny,143
+r w,143
+bus,143
+ęci,143
+d w,143
+san,143
+u a,142
+óźn,142
+lno,142
+per,142
+rat,142
+ am,142
+obo,142
+póź,142
+nt ,142
+oka,141
+ięd,141
+arn,141
+liw,141
+tel,141
+wcz,141
+zin,141
+nii,141
+j o,140
+pop,140
+tos,140
+ofi,140
+iza,140
+yma,140
+u l,140
+wód,139
+ he,139
+ zb,139
+uko,139
+ine,139
+spr,139
+tam,139
+how,139
+rom,139
+lon,139
+ozo,138
+ołu,138
+pił,138
+aje,138
+ice,138
+j k,138
+nto,138
+zeb,138
+rol,138
+ uc,138
+ok ,138
+wi ,138
+pan,138
+ięt,137
+z t,137
+gro,137
+las,137
+nku,137
+otr,136
+n p,136
+top,136
+ą n,136
+kup,136
+gdz,136
+egr,136
+ fo,136
+u t,136
+ału,135
+tyk,135
+ela,135
+omo,135
+zap,135
+oła,135
+ec ,134
+kró,134
+ fa,134
+yko,134
+kę ,134
+nge,134
+ntr,134
+dro,134
+ita,134
+zęś,134
+ors,134
+s w,134
+de ,133
+kam,133
+ ak,133
+co ,133
+łni,133
+y c,132
+oru,132
+nst,132
+ilo,132
+ris,132
+ eu,132
+ du,131
+ryw,131
+my ,131
+ząd,131
+maj,131
+jej,131
+m b,131
+ ks,130
+ial,130
+szo,130
+opo,130
+tka,130
+ru ,130
+wny,130
+lik,130
+eur,129
+aci,129
+d p,129
+rsz,129
+wac,129
+moc,129
+życ,129
+dza,129
+ejn,129
+rot,128
+sol,128
+wow,128
+chr,128
+mod,128
+elk,127
+pły,127
+cą ,127
+tyl,127
+amo,127
+ ot,127
+nau,127
+daw,127
+nne,127
+nni,127
+jon,127
+ su,127
+nów,127
+duj,126
+ode,126
+ził,126
+ity,126
+cu ,126
+m j,126
+ ut,125
+ć w,125
+lac,125
+esp,125
+ryt,125
+waż,125
+wio,125
+om ,125
+j d,125
+ us,125
+bin,124
+zą ,124
+tej,124
+ome,124
+eży,124
+zi ,124
+am ,124
+jdu,124
+o l,124
+sy ,124
+gi ,124
+try,124
+dst,124
+aco,123
+lec,123
+ im,123
+api,123
+ub ,123
+ega,123
+duk,123
+wst,123
+egi,123
+j n,122
+h b,122
+z o,122
+ewo,122
+sco,122
+nap,122
+nek,122
+ ne,122
+yć ,122
+wyb,121
+sią,121
+kal,121
+etr,121
+edł,120
+ ci,120
+tom,120
+ema,120
+iac,120
+sob,120
+rep,120
+ede,120
+nda,120
+el ,120
+ un,120
+ień,120
+ uz,120
+ary,119
+us ,119
+eku,119
+rci,119
+a e,119
+m c,119
+ on,119
+kań,119
+lim,119
+der,119
+peł,119
+z a,119
+wid,119
+agr,118
+stą,118
+dał,118
+wne,118
+ciw,118
+tko,118
+ą o,118
+tol,118
+h a,118
+uzy,118
+ław,118
+u g,118
+jan,118
+ojn,118
+rej,117
+dom,117
+stn,117
+ime,117
+ick,117
+tob,117
+mwa,117
+tek,117
+rne,117
+d k,117
+mor,116
+lew,116
+dok,116
+ełn,116
+rwa,116
+obr,116
+rek,116
+swo,116
+zdo,116
+aza,116
+amw,115
+ątk,115
+d s,115
+r p,115
+lid,115
+yki,115
+ is,115
+afi,115
+h t,115
+kur,114
+nty,114
+zmi,114
+ży ,114
+zal,114
+ić ,114
+cyc,114
+hni,113
+win,113
+ank,113
+nor,113
+ro ,113
+asy,113
+ę s,113
+zyw,113
+i f,113
+ady,113
+oja,113
+erc,112
+nię,112
+ of,112
+ena,112
+su ,112
+ocn,112
+t z,112
+ożo,112
+sia,112
+onu,112
+łos,112
+fic,111
+rz ,111
+ć p,111
+urn,111
+his,111
+łon,110
+zab,110
+mun,110
+e e,110
+wyn,110
+łuż,110
+ ud,110
+izo,110
+rto,110
+bor,110
+rch,110
+ins,110
+ywi,110
+rbi,110
+els,109
+ios,109
+wyp,109
+omu,109
+ajo,109
+ tw,109
+sło,109
+py ,109
+ ho,109
+lio,109
+ą i,108
+grz,108
+nce,108
+z c,108
+ódz,108
+ęst,108
+h r,108
+rog,108
+dia,107
+ół ,107
+ł j,107
+onk,107
+isz,107
+ ję,107
+m a,107
+ama,107
+osk,107
+y l,107
+zyp,107
+bez,106
+t s,106
+asa,106
+zwy,106
+kty,106
+god,106
+w u,106
+ąca,106
+ide,106
+wać,106
+gow,106
+elo,106
+azw,106
+mec,106
+elu,106
+ ry,105
+eśc,105
+sem,105
+ęzy,105
+o f,105
+sji,105
+urb,105
+jęz,105
+ śr,105
+ę o,104
+imp,104
+pal,104
+aju,104
+ską,104
+rmi,104
+bro,104
+mic,104
+kwi,104
+ą k,104
+syn,103
+u j,103
+z b,103
+t n,103
+mal,103
+yli,103
+ain,103
+ wp,103
+tyw,103
+ińs,103
+bow,103
+cin,103
+zwa,103
+ozw,103
+ sc,103
+y g,103
+let,102
+azd,102
+zbi,102
+kał,102
+mał,102
+ton,102
+n z,102
+ndz,102
+fik,102
+łac,102
+odb,102
+zel,102
+cał,101
+rup,101
+kry,101
+ng ,101
+sz ,101
+tyt,101
+ższ,101
+ras,101
+odd,101
+ozn,101
+ og,101
+czł,101
+ktu,101
+ilm,100
+ząt,100
+are,100
+róż,100
+ods,100
+yły,100
+u u,100
+j i,100
+jew,100
+apo,100
+nił,100
+iwe,99
+eka,99
+gór,99
+dów,99
+ert,99
+roj,99
+bur,99
+ć s,99
+gry,99
+ces,99
+ewn,99
+nę ,99
+rki,99
+wę ,99
+rie,99
+ksi,99
+ ad,98
+ńst,98
+wed,98
+ium,98
+rud,98
+etn,98
+d r,98
+ozy,98
+łan,98
+nią,98
+omp,98
+osł,97
+ojs,97
+a h,97
+si ,97
+rzu,97
+ł o,97
+et ,97
+k z,97
+ fu,97
+yło,97
+ord,96
+n s,96
+ons,96
+lot,96
+iwa,96
+yjs,96
+naw,96
+ikó,96
+żni,96
+ebi,96
+jac,95
+taj,95
+sul,95
+oże,95
+ um,95
+ ol,95
+t d,95
+u c,95
+ł k,95
+ejo,95
+ęks,95
+rta,95
+ceg,95
+ jo,95
+ote,95
+ukc,94
+cje,94
+jni,94
+bia,94
+wrz,94
+urz,94
+ago,94
+dop,94
+kro,94
+d n,94
+ ek,94
+dol,94
+rty,94
+zta,93
+ zi,93
+nem,93
+ąpi,93
+łas,93
+tud,93
+dzk,93
+ewa,93
+obs,93
+erp,93
+egu,93
+sił,93
+iąg,93
+fun,92
+ą m,92
+ pł,92
+ą r,92
+ota,92
+ązk,92
+daj,92
+otw,92
+ura,92
+rst,92
+akc,92
+ycj,92
+iko,92
+spe,92
+z i,92
+ute,92
+mów,91
+esu,91
+ajw,91
+adk,91
+rus,91
+ę k,91
+ury,90
+emu,90
+tw ,90
+ km,90
+dwó,90
+a ś,90
+bec,90
+czk,90
+zyj,90
+ ic,90
+aws,90
+tąp,90
+ciu,90
+rcz,89
+ug ,89
+h j,89
+cel,89
+żyn,89
+yk ,89
+ dn,89
+awn,89
+ndy,89
+gło,89
+ubl,89
+rym,89
+km ,89
+t o,89
+yno,89
+bry,88
+jal,88
+mni,88
+eńs,88
+j m,88
+i e,88
+lki,88
+tyn,88
+h l,88
+d d,88
+ zł,88
+odk,88
+wił,88
+łud,88
+skł,88
+ews,88
+dat,87
+lko,87
+eln,87
+ztw,87
+ań ,87
+ydz,87
+udi,87
+jek,87
+zji,87
+aus,87
+sen,87
+umi,87
+wca,87
+kad,87
+lip,87
+i h,87
+zio,87
+ępu,86
+o e,86
+dys,86
+jaz,86
+isj,86
+cił,86
+cio,86
+łno,86
+etu,86
+ałe,86
+ bl,86
+atn,86
+abi,86
+ume,86
+arm,86
+rea,86
+w f,85
+ody,85
+j c,85
+puj,85
+auk,85
+ć z,85
+osó,85
+her,85
+woł,85
+k k,85
+ływ,85
+iar,84
+dzt,84
+ę t,84
+ruc,84
+mus,84
+szą,84
+gic,84
+rti,84
+łod,84
+gel,84
+ęśc,84
+k i,84
+źdz,84
+wyż,84
+ed ,84
+ruk,84
+ctw,84
+ą t,84
+ind,84
+ód ,83
+k s,83
+ąza,83
+z g,83
+h u,83
+ł r,83
+zwo,83
+n o,83
+atr,83
+czu,83
+r z,83
+eko,83
+ict,83
+aka,83
+sys,83
+óra,83
+óln,83
+azy,82
+nci,82
+w e,82
+del,82
+uż ,82
+osp,82
+wyr,82
+syt,82
+mes,82
+ius,82
+gdy,82
+nde,82
+rys,81
+ann,81
+ uż,81
+alo,81
+sil,81
+cer,81
+zag,81
+ób ,81
+óżn,81
+tet,81
+sat,81
+ról,81
+ółn,81
+z j,81
+sów,80
+kt ,80
+poś,80
+alb,80
+rec,80
+dwa,80
+aga,80
+aso,80
+ysz,80
+bis,80
+żli,80
+icj,80
+aja,79
+ado,79
+spi,79
+ndr,79
+krz,79
+ą b,79
+szł,79
+ijs,79
+upa,79
+yty,79
+śre,79
+rzę,79
+zeń,79
+śmi,78
+pas,78
+dmi,78
+wój,78
+k n,78
+ewó,78
+r o,78
+uki,78
+eme,78
+d m,78
+orc,78
+ula,78
+tri,78
+sób,78
+c w,78
+ar ,78
+ożl,78
+s p,78
+mag,78
+eds,78
+pub,78
+tun,77
+ypo,77
+utw,77
+pio,77
+uwa,77
+dek,77
+gat,77
+eus,77
+gio,77
+owc,77
+les,77
+ród,77
+rca,77
+emo,77
+sio,77
+rę ,77
+t t,77
+eso,76
+zad,76
+dne,76
+dwo,76
+też,76
+id ,76
+end,76
+ ab,76
+ wc,76
+órk,76
+ynk,76
+kwa,76
+j b,76
+mpi,76
+rą ,76
+awy,76
+ety,76
+n n,75
+ uw,75
+ace,75
+hal,75
+alu,75
+mos,75
+hro,75
+mit,75
+wło,75
+rte,75
+ fe,75
+ysł,75
+paź,75
+aźd,75
+iło,75
+wno,75
+jął,75
+osa,74
+iii,74
+ezo,74
+gos,74
+ydo,74
+dio,74
+uka,74
+abu,74
+amy,74
+żen,74
+śro,74
+wat,74
+rna,74
+m u,74
+dny,73
+wyw,73
+opu,73
+ża ,73
+ktr,73
+n a,73
+os ,73
+yte,73
+ dł,73
+ock,73
+erd,73
+łem,73
+ybr,73
+rsy,73
+aby,73
+wyg,73
+yta,73
+kil,73
+rny,73
+rpn,73
+muj,73
+t k,73
+d z,73
+d o,73
+w h,73
+ntu,73
+j a,73
+oró,73
+j g,73
+ic ,72
+hen,72
+byw,72
+awc,72
+zęs,72
+typ,72
+iły,72
+j j,72
+cę ,72
+ack,72
+ret,72
+riu,72
+tą ,72
+cię,72
+nkc,72
+róc,72
+t m,72
+ose,72
+wag,72
+aku,72
+eru,72
+sez,71
+mas,71
+dec,71
+łoś,71
+zyb,71
+urs,71
+r s,71
+eśl,71
+nag,71
+aj ,71
+k o,71
+tre,71
+ańc,71
+niw,71
+ink,71
+jaw,71
+cym,71
+apr,71
+sar,71
+ksy,70
+ypu,70
+ill,70
+obl,70
+lle,70
+atk,70
+usi,70
+dzą,70
+nd ,70
+ett,70
+eś ,70
+wra,70
+zuj,70
+t l,69
+wiz,69
+oce,69
+tab,69
+rwc,69
+cją,69
+ th,69
+żał,69
+ler,69
+io ,69
+ilk,69
+ę m,69
+s o,69
+azi,69
+m g,69
+ą c,69
+obn,69
+wen,69
+skr,69
+chu,69
+ezy,69
+lka,68
+ądz,68
+j t,68
+zyd,68
+sti,68
+ąd ,68
+ośr,68
+wsc,68
+lam,68
+j l,68
+ecy,68
+anu,68
+yne,68
+lsc,68
+adł,68
+tok,68
+cej,68
+h g,68
+orn,68
+ gó,67
+klu,67
+aze,67
+azu,67
+h c,67
+ę i,67
+urg,67
+ure,67
+lcz,67
+ngi,67
+ zg,67
+żyw,67
+fer,67
+ito,67
+ici,67
+r m,67
+ape,67
+s i,67
+ oc,67
+ vi,67
+e ś,67
+ą j,67
+sk ,67
+ up,67
+dań,67
+iąż,67
+rt ,67
+iku,67
+bu ,67
+bad,67
+n i,67
+ as,66
+s z,66
+ żo,66
+ddz,66
+pa ,66
+zo ,66
+x w,66
+n m,66
+k m,66
+yse,66
+dot,66
+oci,66
+iln,66
+dpo,66
+ver,66
+eża,66
+nom,66
+nkó,66
+oga,66
+gon,65
+ż w,65
+śli,65
+wro,65
+nka,65
+bol,65
+ryn,65
+ger,65
+zat,65
+iwo,65
+żył,65
+inf,65
+pac,65
+toś,65
+eto,65
+z l,65
+usa,65
+bit,65
+rka,65
+cni,65
+ć n,65
+wil,65
+dko,64
+zno,64
+ęła,64
+wes,64
+już,64
+esa,64
+ejm,64
+ywn,64
+zną,64
+adr,64
+ęto,64
+ć m,64
+ażn,64
+iv ,64
+ cy,64
+kap,64
+ypa,64
+ygr,64
+s m,64
+ajm,63
+ond,63
+shi,63
+mii,63
+zyt,63
+onc,63
+n j,63
+aną,63
+iwi,63
+syj,63
+ śm,63
+być,63
+hor,63
+rce,63
+zku,63
+ozi,63

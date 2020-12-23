@@ -1,0 +1,1497 @@
+ de,19191
+de ,14811
+os ,9530
+ la,9304
+el ,8760
+la ,8097
+ en,7776
+en ,7451
+ co,6847
+es ,6814
+as ,6401
+ el,6340
+ent,5205
+e l,5148
+do ,4668
+ es,4623
+s d,4501
+o d,4402
+ y ,4372
+a d,4338
+nte,4087
+ un,4050
+ue ,4031
+con,3938
+ se,3837
+a e,3782
+te ,3660
+ra ,3651
+que,3600
+ón ,3544
+n e,3507
+ado,3505
+e e,3450
+al ,3428
+ lo,3388
+est,3334
+ a ,3315
+a c,3268
+ qu,3263
+ pa,3250
+ po,3191
+ión,3185
+s e,3033
+o e,3020
+los,2960
+ su,2959
+on ,2957
+or ,2945
+se ,2903
+ pr,2812
+a p,2759
+aci,2752
+ció,2751
+na ,2744
+del,2729
+par,2729
+e d,2728
+ re,2673
+ ca,2608
+n l,2593
+a l,2539
+sta,2517
+to ,2397
+res,2378
+e s,2366
+por,2363
+e c,2361
+da ,2253
+s c,2200
+s p,2199
+ica,2197
+com,2195
+ia ,2159
+las,2159
+ta ,2159
+e a,2157
+tra,2150
+a a,2118
+n d,2098
+ien,2083
+ar ,2079
+ant,2028
+ al,1985
+era,1984
+ in,1960
+a s,1954
+men,1954
+l d,1895
+s a,1893
+an ,1877
+e p,1814
+una,1800
+un ,1793
+ro ,1775
+ara,1732
+o a,1727
+ ma,1724
+ion,1708
+io ,1680
+des,1670
+no ,1665
+ada,1649
+o p,1642
+cia,1635
+dos,1629
+re ,1617
+er ,1607
+ di,1596
+dad,1586
+ ha,1584
+ter,1584
+nci,1574
+ pe,1572
+ran,1556
+ida,1553
+cio,1548
+o c,1531
+mo ,1522
+ist,1500
+per,1495
+ntr,1493
+su ,1486
+ici,1483
+ero,1475
+l c,1473
+ si,1465
+ndo,1457
+nto,1422
+ía ,1414
+lo ,1413
+pro,1401
+l p,1399
+ fu,1387
+ca ,1385
+s s,1385
+ona,1371
+a m,1366
+ina,1337
+les,1336
+ido,1327
+and,1306
+n c,1304
+o s,1291
+nes,1280
+ tr,1270
+n s,1267
+ no,1253
+r e,1252
+art,1234
+one,1208
+ cu,1189
+ad ,1185
+s l,1184
+o l,1176
+n a,1174
+enc,1170
+fue,1161
+s y,1158
+e m,1152
+nta,1149
+omo,1148
+l e,1144
+rio,1134
+ so,1127
+n p,1110
+ari,1108
+tor,1094
+ale,1077
+ali,1075
+ te,1069
+rec,1065
+ras,1059
+ico,1037
+a f,1036
+s m,1027
+tes,1026
+ me,1025
+tro,1024
+co ,1024
+ mi,1022
+ten,1021
+ste,1013
+tad,1006
+esp,993
+e t,991
+pre,983
+nal,980
+end,978
+ mu,972
+bre,969
+ron,967
+e u,966
+ene,965
+a y,949
+str,946
+ura,945
+den,944
+a t,941
+mer,937
+tic,934
+l s,933
+r d,917
+tos,912
+a r,910
+ ac,909
+aba,909
+ an,908
+ier,906
+uni,898
+sti,896
+ ta,895
+ do,880
+ita,880
+ ba,879
+l a,878
+ sa,877
+eri,873
+ vi,869
+int,857
+ros,857
+ pu,853
+ mo,852
+rad,850
+l m,850
+ to,844
+gra,838
+tar,837
+ria,836
+s t,834
+pri,834
+ ve,832
+tre,832
+car,828
+r l,823
+ont,807
+dor,805
+ano,803
+ás ,802
+ma ,801
+eci,800
+tan,791
+más,788
+a u,781
+man,777
+e h,776
+go ,774
+ió ,773
+cas,772
+e r,769
+anc,769
+rte,767
+ora,766
+s u,766
+le ,764
+fic,763
+nos,761
+ ju,761
+tal,761
+e f,760
+ gr,756
+rti,756
+us ,755
+nde,755
+y e,755
+lla,748
+nic,742
+inc,742
+iza,742
+n u,733
+ ti,732
+qui,731
+der,730
+o y,728
+so ,725
+ers,725
+min,724
+cua,723
+ial,721
+can,716
+mar,714
+ort,709
+ver,708
+año,705
+s q,705
+ser,704
+sto,704
+ual,696
+ame,696
+ori,693
+ ci,692
+cie,691
+rma,687
+edi,682
+ana,682
+a i,680
+uer,679
+l t,678
+n m,675
+mie,673
+r a,670
+ ar,667
+nda,666
+ons,665
+lic,661
+ ex,660
+ le,660
+ide,657
+e i,654
+esc,651
+ má,651
+ cr,651
+a v,650
+dic,650
+o m,649
+nti,648
+lar,648
+ cl,647
+ na,647
+nad,647
+ren,647
+ ce,647
+ore,644
+tie,644
+esa,643
+emp,643
+ner,642
+mbr,640
+ade,638
+das,636
+sa ,636
+ula,634
+cen,634
+lan,633
+cue,633
+tiv,632
+esi,631
+a q,630
+ios,630
+rim,627
+for,627
+ fi,626
+ect,622
+cad,621
+s f,620
+cto,620
+tam,620
+act,619
+amb,618
+n t,616
+ó e,616
+ añ,613
+err,609
+ert,609
+o q,609
+orm,608
+sid,608
+ndi,607
+cul,605
+s r,603
+omp,602
+ens,601
+ime,599
+son,598
+y l,598
+ili,594
+pue,594
+o t,589
+pos,588
+lle,587
+e n,585
+cos,583
+ li,583
+ría,581
+rea,581
+ond,580
+sus,579
+dis,573
+ere,573
+und,572
+mbi,572
+uen,570
+e o,570
+d d,570
+cam,565
+a n,564
+cer,560
+liz,559
+gen,559
+a o,557
+tur,552
+s o,552
+tas,549
+ral,547
+ as,544
+ or,544
+ill,543
+cip,542
+nac,541
+cha,541
+s h,540
+cal,539
+s i,535
+ o ,531
+ fr,530
+emb,529
+tri,528
+ese,524
+ami,524
+ir ,524
+vo ,523
+r s,522
+e v,521
+n f,519
+arr,519
+s n,517
+ele,517
+o u,515
+ern,513
+ban,512
+po ,511
+amp,509
+ lu,507
+e b,506
+ede,505
+ric,504
+ fo,504
+ fa,501
+mun,498
+r c,498
+ast,497
+ama,497
+ell,497
+e y,497
+ven,495
+rac,493
+med,492
+a b,492
+a h,491
+tin,488
+uda,488
+és ,487
+ó a,484
+ino,484
+ito,483
+mpo,483
+ va,482
+ble,482
+ela,481
+a g,480
+llo,479
+cor,479
+ces,478
+san,476
+cci,475
+all,474
+sig,473
+oci,472
+itu,468
+ nu,468
+eta,466
+ ll,465
+cre,464
+cid,464
+ ad,463
+ ro,463
+nas,463
+y s,463
+hab,462
+r p,461
+olo,461
+imi,458
+rta,458
+mil,456
+alm,456
+ hi,454
+e g,452
+arg,451
+ em,451
+jo ,450
+ ap,448
+tem,448
+ate,446
+ño ,445
+erm,444
+spe,442
+ata,441
+lac,439
+y d,439
+o r,439
+ ga,438
+o f,438
+ne ,438
+eda,438
+iem,436
+asa,436
+ono,436
+ba ,435
+reg,433
+rre,433
+gan,433
+ctu,433
+ du,432
+are,432
+ ot,432
+rat,431
+ome,430
+ ob,430
+n y,428
+aro,428
+cho,427
+dia,427
+clu,427
+lia,427
+y c,425
+ema,424
+ian,424
+nid,424
+ini,424
+tua,422
+ena,421
+nst,421
+ién,420
+oca,419
+mad,418
+ am,417
+uel,416
+sar,416
+ato,414
+cri,413
+otr,411
+va ,411
+fer,411
+iva,411
+ au,410
+col,410
+ha ,409
+sió,409
+ber,408
+obr,408
+omb,407
+ er,405
+nue,405
+ fe,404
+dio,403
+seg,403
+odo,402
+o n,401
+l r,401
+bra,401
+ati,400
+baj,400
+ias,399
+y a,399
+rit,398
+fin,397
+pla,397
+ing,396
+sen,396
+gar,396
+én ,395
+ce ,394
+s v,394
+rin,394
+rar,393
+o i,393
+igu,391
+tab,390
+ani,390
+rse,388
+ ge,388
+ota,386
+nsi,386
+bla,385
+e q,385
+mpl,385
+ ho,384
+ues,383
+l g,383
+lme,382
+nce,380
+ala,379
+l n,378
+in ,378
+ecu,377
+eso,376
+tac,375
+mis,374
+s b,374
+ ch,373
+nco,372
+nar,372
+tid,372
+vis,371
+isi,371
+ive,371
+lid,370
+rab,369
+ifi,367
+ ra,367
+n r,366
+don,365
+ism,365
+ece,364
+bié,362
+mas,361
+eme,361
+asi,359
+r u,359
+dur,358
+mpe,357
+rop,357
+uev,357
+ace,356
+leg,356
+ go,355
+ivi,355
+rro,354
+bli,353
+o h,352
+fra,352
+rra,352
+ he,351
+sin,350
+ovi,348
+is ,348
+pec,348
+ost,348
+tod,347
+eva,347
+atr,345
+ech,345
+ego,344
+ega,344
+l l,344
+ños,344
+imp,342
+ be,342
+ued,341
+erc,340
+dem,340
+ivo,340
+cla,340
+uci,339
+unt,338
+rgo,338
+nom,338
+eni,336
+o o,336
+egu,336
+nse,335
+n g,334
+uan,334
+sic,333
+ ne,333
+apa,333
+die,332
+lam,332
+duc,331
+gun,330
+vid,330
+ da,330
+rod,330
+sis,328
+za ,328
+uie,328
+lad,327
+ pl,327
+rna,327
+mos,326
+gui,326
+l f,325
+n i,325
+lon,325
+equ,323
+lec,323
+gua,323
+uga,323
+s g,322
+y p,322
+obl,321
+ima,318
+arc,317
+oni,317
+ im,314
+ret,314
+e j,314
+var,313
+mpa,311
+tit,311
+egi,311
+ bo,311
+sit,310
+omi,310
+rie,310
+pas,309
+nor,309
+ult,308
+ez ,308
+has,307
+bar,307
+abl,307
+rso,307
+mon,306
+ pi,305
+n h,304
+ gu,303
+hac,301
+n n,300
+eno,300
+onc,300
+ord,299
+uch,299
+spu,299
+sal,299
+nan,299
+noc,298
+sol,297
+zad,295
+rep,294
+rca,294
+eo ,293
+pol,293
+ol ,292
+ipo,292
+eal,291
+gad,291
+ipa,290
+lin,289
+rde,288
+eco,288
+ola,287
+ ni,287
+n b,287
+uno,286
+bie,286
+mit,286
+pal,285
+sos,285
+gre,284
+án ,284
+n o,284
+rmi,284
+u p,284
+opa,283
+len,283
+smo,283
+ícu,282
+pañ,281
+cti,281
+deb,280
+ea ,280
+adi,280
+osa,279
+sob,279
+rem,279
+ogr,279
+nis,278
+ses,278
+spa,277
+ton,277
+vin,277
+ins,277
+ind,276
+ajo,275
+esd,275
+ard,274
+sde,273
+pa ,273
+ ed,273
+ior,272
+udi,271
+tim,270
+ br,269
+ile,268
+ga ,268
+bri,268
+n v,266
+dec,266
+gue,265
+vie,264
+sio,264
+ars,263
+ oc,263
+rto,263
+alt,262
+osi,261
+rga,261
+anz,260
+ ag,260
+rri,260
+ext,260
+nza,260
+lat,259
+rsi,259
+nat,259
+iud,259
+lor,259
+rid,259
+eli,258
+oli,258
+l i,258
+til,257
+tir,257
+l y,257
+dir,257
+ vo,256
+ at,256
+scr,255
+ine,255
+pio,254
+ayo,254
+zar,254
+ase,253
+n q,253
+ ab,252
+cac,251
+adr,251
+ó l,251
+ete,250
+abi,250
+ciu,250
+l b,249
+lta,249
+ían,249
+ncu,249
+red,248
+erí,248
+rov,248
+erv,248
+il ,248
+lem,248
+r m,247
+emi,247
+dif,247
+ust,246
+lig,246
+ueg,245
+evo,245
+rol,245
+día,244
+o g,243
+tru,243
+ués,242
+lis,242
+ane,242
+gos,242
+ole,242
+iga,242
+rel,242
+ya ,241
+rme,241
+rom,241
+val,240
+dep,240
+stá,240
+mic,239
+may,239
+ode,238
+pon,238
+mat,238
+zac,238
+mpr,237
+sup,237
+emá,237
+zo ,236
+uro,236
+chi,236
+ris,236
+roc,236
+tó ,236
+imo,235
+ple,235
+aca,235
+pen,234
+ of,234
+sec,234
+y m,233
+iti,233
+ie ,232
+abe,232
+ hu,232
+cap,232
+o b,231
+stu,231
+spo,231
+oma,230
+l o,230
+ago,230
+tud,229
+fre,228
+cab,228
+ jo,228
+ncl,227
+emo,226
+sur,225
+ipi,224
+niv,224
+odu,224
+log,223
+ume,223
+rno,222
+pac,222
+orr,222
+d e,221
+pad,221
+scu,220
+did,220
+ulo,220
+aña,220
+ram,220
+igl,220
+nia,219
+nio,219
+org,219
+ote,219
+orn,219
+zó ,218
+oll,218
+eti,218
+cin,218
+o v,218
+jun,217
+ose,217
+evi,217
+rib,216
+pué,216
+dar,215
+lti,215
+ho ,214
+bía,213
+fun,212
+sas,212
+upe,212
+pob,212
+ire,212
+rer,212
+erd,211
+vos,211
+y t,211
+sca,211
+cat,208
+dre,208
+rev,207
+l q,207
+ur ,207
+hos,207
+sie,207
+aje,206
+ tu,206
+lit,206
+ ya,206
+sad,205
+ bu,205
+aso,205
+met,204
+oso,203
+bol,202
+igi,202
+uto,202
+abr,202
+arí,201
+ bi,201
+nía,201
+r y,201
+ ej,200
+ún ,200
+ró ,200
+isp,200
+r t,200
+ eq,199
+rig,199
+bas,199
+ite,199
+oto,198
+ibi,197
+div,197
+jos,197
+atu,196
+uti,196
+pli,196
+tuv,195
+oce,194
+opi,194
+glo,193
+iad,193
+bit,193
+pod,193
+bor,193
+ecc,193
+mba,193
+ans,192
+ fl,192
+mac,192
+ó c,192
+che,191
+ña ,191
+sor,191
+uid,190
+loc,190
+jer,189
+a j,189
+uad,189
+ubi,188
+s j,188
+fam,187
+lab,187
+etr,187
+rtí,186
+jug,186
+her,186
+l v,186
+lev,186
+lub,185
+pel,185
+abí,185
+nsa,184
+ler,184
+vic,184
+u c,184
+pat,184
+ us,183
+ó u,182
+alg,182
+cur,182
+eje,182
+lib,181
+agu,181
+sco,181
+r o,181
+rge,181
+let,180
+rci,180
+ich,180
+y f,180
+bro,180
+yor,179
+idi,179
+ll ,179
+ ec,179
+mal,179
+tig,179
+uip,178
+eto,178
+mor,177
+l h,177
+nve,177
+olí,177
+pie,177
+oro,177
+ove,177
+elo,177
+mod,176
+uta,176
+dan,176
+exp,176
+ejo,176
+íti,175
+soc,175
+abo,175
+mes,175
+nec,175
+uar,174
+rav,174
+tec,173
+bal,172
+sí ,172
+luc,172
+rqu,172
+epa,172
+pan,172
+nca,171
+put,171
+unc,171
+he ,171
+nie,171
+tá ,170
+ bl,170
+egr,170
+exi,170
+isc,170
+rot,169
+har,169
+usa,169
+pul,169
+ ja,168
+ham,168
+ sh,168
+inf,167
+ang,167
+fec,167
+vol,166
+cta,166
+efe,166
+ub ,166
+onv,166
+ías,166
+vil,166
+tom,165
+aja,165
+bur,165
+ja ,165
+ay ,165
+edo,164
+aut,164
+ af,164
+uso,164
+ ru,164
+me ,164
+enz,163
+his,163
+uri,162
+omu,161
+uvo,160
+urg,160
+nó ,160
+lim,160
+inv,160
+rog,160
+sia,159
+vas,158
+ocu,158
+rag,158
+the,158
+nqu,158
+neo,157
+acc,157
+uye,157
+rob,156
+dió,156
+ira,156
+je ,156
+n j,156
+ndr,156
+ava,155
+ op,155
+r r,155
+ení,155
+eño,154
+via,154
+río,154
+bil,153
+ref,153
+ald,153
+nen,153
+poc,153
+sce,152
+ies,152
+ ri,152
+sep,151
+ó s,151
+ th,151
+ibe,151
+aza,151
+ we,150
+aqu,150
+han,150
+ice,150
+eja,149
+bid,149
+ó d,149
+nov,149
+alo,149
+y o,149
+ubl,149
+sim,148
+ng ,148
+obi,148
+nso,147
+iar,146
+ve ,146
+vad,146
+gob,146
+muc,146
+tíc,146
+ e ,146
+ebr,145
+ibl,145
+yo ,145
+có ,145
+ife,145
+o j,145
+lue,144
+cop,144
+sla,144
+neg,144
+oda,144
+ey ,144
+vel,144
+ril,143
+not,143
+usi,143
+aus,143
+alc,143
+rus,143
+eña,143
+arm,143
+ ig,143
+eve,143
+ied,142
+u e,142
+pit,142
+ío ,142
+gio,142
+bic,142
+ueb,142
+lug,141
+ain,141
+ebi,141
+lgu,141
+así,141
+lio,141
+úbl,140
+eur,140
+púb,140
+olu,140
+rup,140
+tio,140
+ign,140
+nvi,140
+rán,140
+uis,140
+nt ,140
+si ,139
+ves,139
+ced,139
+anu,139
+pub,139
+rá ,138
+ofi,138
+rvi,138
+peo,138
+ope,137
+uat,137
+ruc,137
+gún,137
+cil,137
+inu,137
+rce,137
+ucc,137
+rdo,136
+uir,136
+apo,136
+tel,136
+rne,136
+aís,135
+tán,135
+jet,135
+cim,135
+ein,135
+r q,135
+fes,135
+ila,135
+cel,134
+rof,134
+últ,134
+gal,134
+orí,134
+d c,134
+tió,133
+y r,133
+gru,133
+r n,133
+epr,133
+tat,133
+hil,132
+arl,132
+eud,132
+ eu,132
+ept,132
+uct,132
+ ev,131
+rdi,131
+ dí,131
+eon,131
+onf,131
+acu,130
+uli,130
+aur,130
+l j,130
+aco,129
+ó p,129
+dam,129
+zon,129
+áti,128
+ger,128
+i e,128
+vez,128
+sul,128
+ mé,128
+niz,128
+mpi,128
+cit,128
+vir,127
+mp ,127
+gó ,127
+nge,127
+y u,127
+ id,127
+ave,126
+nd ,126
+ngu,125
+ijo,125
+van,125
+ km,125
+tul,125
+ape,125
+tip,125
+paí,125
+ úl,125
+km ,125
+erp,125
+lít,125
+dou,124
+pet,124
+r f,124
+iri,124
+sem,124
+bel,124
+ánd,124
+gin,124
+sub,124
+luy,123
+eza,123
+ st,123
+din,123
+ gi,123
+lus,123
+deu,123
+eau,123
+pun,122
+dro,122
+eir,122
+arq,122
+ige,121
+cep,121
+uma,121
+ té,120
+upo,120
+o x,120
+jue,120
+bea,120
+opo,119
+ong,119
+dra,119
+amo,119
+d s,119
+aun,119
+ofe,119
+fal,119
+pes,119
+epe,119
+hor,119
+ibu,118
+avi,118
+ c ,118
+arp,118
+ubr,118
+mot,117
+ead,117
+igo,117
+e k,117
+gol,117
+ it,117
+rpo,117
+oes,117
+señ,116
+ ub,116
+mpu,116
+ebe,116
+jor,116
+agr,115
+oco,115
+sil,115
+oba,115
+fro,115
+sib,115
+hij,115
+ ut,114
+lui,114
+epo,114
+ará,114
+cup,114
+mig,114
+oct,114
+pia,114
+nfe,113
+odi,113
+ck ,113
+tbo,113
+rió,113
+d a,113
+ict,113
+nfo,113
+dol,113
+eca,113
+ic ,112
+ngr,112
+icó,112
+blo,112
+hom,112
+muy,111
+uy ,111
+isl,111
+só ,111
+gas,111
+hec,110
+u m,110
+lca,110
+sha,110
+gur,110
+asc,110
+use,110
+lto,109
+viv,109
+urs,109
+rtu,109
+auc,109
+hum,109
+zan,109
+iel,108
+sel,108
+bje,108
+edu,108
+raz,107
+éri,107
+be ,107
+y n,107
+tuc,107
+íst,106
+ís ,106
+rd ,106
+ud ,106
+api,106
+xte,106
+fil,105
+egú,105
+d p,105
+ben,105
+ ol,105
+nea,105
+rva,105
+sma,105
+ge ,104
+obj,104
+vio,104
+l u,104
+hay,104
+obt,104
+cía,104
+riv,104
+opu,103
+gle,103
+cir,103
+dal,103
+rda,103
+sai,103
+e w,103
+r g,103
+apr,103
+tot,103
+fir,102
+cum,102
+esu,102
+gis,102
+nzó,102
+r h,102
+am ,102
+gió,102
+ rí,102
+jan,102
+och,102
+ wi,102
+exc,101
+uca,101
+our,101
+ñad,101
+ded,101
+adu,101
+nin,101
+ is,101
+y v,100
+uje,100
+lea,100
+iro,100
+ lí,100
+u t,100
+dom,99
+ltu,99
+sau,99
+gac,99
+enf,99
+erf,99
+ilo,99
+ntu,99
+izo,99
+ je,99
+rp ,99
