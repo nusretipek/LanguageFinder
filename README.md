@@ -2,6 +2,8 @@
 
 *A simple Julia package for language detection using bigrams, trigrams and quadrigrams.*
 
+The Julia package is designed to detect most common languages accurately and train any language that has Wikipedia pages (>200) on demand. It use consensus approach rto guess language rather than only trigrams to improve accuracy. It is the first Julia package that use quadrigrams in language detection.    
+
 ## Installation Instructions
 
 ```
