@@ -1,4 +1,4 @@
-using Test
+using Test, LanguageFinder
 
 test_set =  Dict("AR" => "النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل",
                  "CS" => "Chraň ji, nedovede-li už ona sebe chránit! Ty ji miluješ? Tedy se obětuj!",
