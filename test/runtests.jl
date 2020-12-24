@@ -26,7 +26,7 @@ test_set =  Dict("AR" => "النشوة وتمجيد الألم نشأت بالف
                  "UK" => "Оля, почитай щось з художньої літератури, яка краще передасть інтонації живої мови.",
                  "ZH" => "欢迎您到“跨年之城”海口参加湖南卫视跨年演唱会。根据跨年演唱会服务保障工作总体部署，为了您和大家的身体健康，请您仔细阅读本通告，严格遵守有关要求。")
 
-L = LanguageFind
+L = LanguageFinder.LanguageFind
 
 @testset "Test Random Lorem Ipsum" begin
 for (key,value) in test_set
