@@ -1,7 +1,7 @@
 name = "LanguageFinder"
 uuid = "e8e009a8-4479-409b-a274-75b76d9b8a40"
 authors = ["nusretipek <nusretipek@yandex.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
