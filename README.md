@@ -1,6 +1,8 @@
 # LanguageFinder
 
 [![Build Status](https://travis-ci.com/nusretipek/LanguageFinder.svg?branch=main)](https://travis-ci.com/nusretipek/LanguageFinder)
+[![Check Status](https://img.shields.io/github/checks-status/nusretipek/LanguageFinder/main)](https://img.shields.io/github/checks-status/nusretipek/LanguageFinder/main)
+[![Lang Status](https://img.shields.io/github/languages/top/nusretipek/LanguageFinder)](https://img.shields.io/github/languages/top/nusretipek/LanguageFinder)
 
 *A simple Julia package for language detection using bigrams, trigrams and quadrigrams.*
 
