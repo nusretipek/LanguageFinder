@@ -72,3 +72,7 @@ train_wikipedia_text("es", 1000, 5)
 This would override the ngram files of Spanish language by using 1,000 Wikipedia pages instead of 500.  
 
 *If you train your corpus using Wikipedia servers, please consider to support/donate the non-profit orgatization: https://wikimediafoundation.org/support/*
+
+<hr>
+
+Release v0.1.1 - Relative paths are corrected for the linux and osx environments.  
