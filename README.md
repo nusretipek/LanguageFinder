@@ -12,7 +12,7 @@ The Julia package is designed to detect most common languages accurately and tra
 
 ```
 using Pkg
-Pkg.add(url="https://github.com/nusretipek/LanguageFinder")
+Pkg.add("LanguageFinder")
 ```
 
 ## Basic Usage
