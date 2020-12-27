@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.com/nusretipek/LanguageFinder.svg?branch=main)](https://travis-ci.com/nusretipek/LanguageFinder)
 [![Check Status](https://img.shields.io/github/checks-status/nusretipek/LanguageFinder/main)](https://img.shields.io/github/checks-status/nusretipek/LanguageFinder/main)
 [![Lang Status](https://img.shields.io/github/languages/top/nusretipek/LanguageFinder?color=blueviolet)](https://img.shields.io/github/languages/top/nusretipek/LanguageFinder?color=blueviolet)
+
 *A simple Julia package for language detection using bigrams, trigrams and quadrigrams.*
 
 The Julia package is designed to detect most common languages accurately and train any language that has Wikipedia pages (>200) on demand. It use consensus approach rto guess language rather than only trigrams to improve accuracy. It is the first Julia package that use quadrigrams in language detection.    
